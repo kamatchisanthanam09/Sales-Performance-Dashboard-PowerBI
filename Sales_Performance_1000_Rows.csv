@@ -1,0 +1,1001 @@
+﻿Order_ID,Order_Date,Customer_ID,Customer_Name,Product_Name,Category,Region,Quantity,Unit_Price,Unit_Cost,Discount,Payment_Method
+ORD10001,2024-10-08,C002,Priya S,Smartwatch,Electronics,South,2,4800,3100,0.0,UPI
+ORD10002,2025-03-08,C038,Yamini R,Headphones,Electronics,North,1,2200,1200,0.0,Credit Card
+ORD10003,2025-09-08,C033,Ashwin P,Sofa,Furniture,South,1,26000,19000,0.15,Net Banking
+ORD10004,2025-04-04,C015,Ravi P,Electric Kettle,Home Appliances,North,5,1700,980,0.05,Credit Card
+ORD10005,2024-10-11,C022,Pooja R,Electric Kettle,Home Appliances,East,2,1700,980,0.0,UPI
+ORD10006,2024-04-09,C025,Gokul S,Headphones,Electronics,Central,3,2200,1200,0.05,Debit Card
+ORD10007,2025-07-03,C030,Revathi K,Smartphone,Electronics,North,1,24000,18500,0.1,Net Banking
+ORD10008,2025-01-05,C040,Hema K,T-Shirt,Fashion,North,5,900,420,0.0,UPI
+ORD10009,2024-03-22,C019,Manoj T,Sofa,Furniture,West,2,26000,19000,0.0,Debit Card
+ORD10010,2024-06-15,C024,Aarthi M,Air Fryer,Home Appliances,South,3,8500,6100,0.05,Debit Card
+ORD10011,2025-10-12,C039,Surya P,Headphones,Electronics,South,2,2200,1200,0.15,Credit Card
+ORD10012,2024-10-03,C025,Gokul S,Air Fryer,Home Appliances,East,5,8500,6100,0.0,UPI
+ORD10013,2024-11-19,C003,Karthik R,Sofa,Furniture,North,4,26000,19000,0.05,Credit Card
+ORD10014,2025-11-02,C014,Keerthana R,Backpack,Fashion,West,4,1800,950,0.1,Credit Card
+ORD10015,2024-09-09,C009,Suresh B,Running Shoes,Fashion,East,5,3200,1900,0.15,Net Banking
+ORD10016,2025-02-12,C038,Yamini R,Electric Kettle,Home Appliances,South,3,1700,980,0.0,Net Banking
+ORD10017,2024-02-18,C006,Anitha P,Table Fan,Home Appliances,South,1,2900,1850,0.0,Cash
+ORD10018,2025-01-25,C025,Gokul S,Headphones,Electronics,Central,5,2200,1200,0.1,Debit Card
+ORD10019,2025-11-29,C008,Sneha R,Laptop,Electronics,East,5,52000,41000,0.05,UPI
+ORD10020,2024-06-10,C028,Kavya N,T-Shirt,Fashion,East,4,900,420,0.0,Net Banking
+ORD10021,2024-04-18,C033,Ashwin P,Study Table,Furniture,Central,3,9500,6800,0.2,Net Banking
+ORD10022,2025-01-17,C010,Meena S,Bookshelf,Furniture,Central,2,5200,3300,0.15,UPI
+ORD10023,2024-01-20,C032,Gayathri R,Backpack,Fashion,East,1,1800,950,0.05,Credit Card
+ORD10024,2025-08-03,C016,Deepa S,Smartphone,Electronics,West,1,24000,18500,0.0,UPI
+ORD10025,2025-11-06,C009,Suresh B,Office Chair,Furniture,South,4,6500,4300,0.15,Debit Card
+ORD10026,2025-07-06,C014,Keerthana R,Electric Kettle,Home Appliances,East,2,1700,980,0.2,Cash
+ORD10027,2025-06-13,C029,Mohan V,Jacket,Fashion,South,4,2800,1600,0.0,Credit Card
+ORD10028,2024-01-22,C022,Pooja R,Headphones,Electronics,South,5,2200,1200,0.15,Net Banking
+ORD10029,2024-03-13,C001,Arun Kumar,Sofa,Furniture,North,1,26000,19000,0.0,UPI
+ORD10030,2025-06-10,C005,Rahul N,Backpack,Fashion,West,2,1800,950,0.05,Credit Card
+ORD10031,2025-08-13,C037,Vignesh S,Office Chair,Furniture,West,4,6500,4300,0.0,Cash
+ORD10032,2024-04-09,C007,Vijay K,Bookshelf,Furniture,West,4,5200,3300,0.05,Cash
+ORD10033,2025-11-20,C004,Divya M,Air Fryer,Home Appliances,West,1,8500,6100,0.0,Debit Card
+ORD10034,2024-07-15,C016,Deepa S,Smartwatch,Electronics,West,2,4800,3100,0.15,Credit Card
+ORD10035,2024-10-12,C012,Lakshmi K,Electric Kettle,Home Appliances,North,4,1700,980,0.0,Cash
+ORD10036,2025-10-29,C004,Divya M,Smartwatch,Electronics,North,5,4800,3100,0.0,Credit Card
+ORD10037,2025-05-12,C027,Bala R,Study Table,Furniture,West,4,9500,6800,0.0,UPI
+ORD10038,2024-01-03,C025,Gokul S,Study Table,Furniture,West,4,9500,6800,0.05,Debit Card
+ORD10039,2025-11-08,C036,Shalini V,Electric Kettle,Home Appliances,South,4,1700,980,0.0,Debit Card
+ORD10040,2025-08-16,C004,Divya M,Bookshelf,Furniture,East,5,5200,3300,0.0,UPI
+ORD10041,2025-05-03,C038,Yamini R,Smartphone,Electronics,South,5,24000,18500,0.15,UPI
+ORD10042,2024-03-11,C012,Lakshmi K,Headphones,Electronics,South,5,2200,1200,0.0,Cash
+ORD10043,2024-09-09,C037,Vignesh S,Smartwatch,Electronics,North,5,4800,3100,0.15,Net Banking
+ORD10044,2025-11-04,C027,Bala R,Headphones,Electronics,Central,5,2200,1200,0.15,Debit Card
+ORD10045,2025-11-16,C014,Keerthana R,Running Shoes,Fashion,East,3,3200,1900,0.0,Cash
+ORD10046,2025-04-13,C020,Nisha A,Office Chair,Furniture,North,3,6500,4300,0.0,Cash
+ORD10047,2025-07-04,C005,Rahul N,Smartwatch,Electronics,East,2,4800,3100,0.15,Credit Card
+ORD10048,2024-09-07,C005,Rahul N,Jacket,Fashion,South,3,2800,1600,0.05,Cash
+ORD10049,2025-10-31,C040,Hema K,T-Shirt,Fashion,Central,5,900,420,0.0,Debit Card
+ORD10050,2024-09-27,C009,Suresh B,Smartwatch,Electronics,Central,1,4800,3100,0.0,Credit Card
+ORD10051,2025-09-11,C019,Manoj T,Running Shoes,Fashion,East,2,3200,1900,0.2,Credit Card
+ORD10052,2025-05-15,C033,Ashwin P,Running Shoes,Fashion,North,3,3200,1900,0.0,Cash
+ORD10053,2024-01-04,C003,Karthik R,Running Shoes,Fashion,East,3,3200,1900,0.0,Credit Card
+ORD10054,2025-12-23,C036,Shalini V,Air Fryer,Home Appliances,North,4,8500,6100,0.15,UPI
+ORD10055,2025-07-12,C010,Meena S,Headphones,Electronics,Central,1,2200,1200,0.05,Net Banking
+ORD10056,2024-05-10,C028,Kavya N,Office Chair,Furniture,East,1,6500,4300,0.05,UPI
+ORD10057,2025-11-29,C014,Keerthana R,Jacket,Fashion,North,2,2800,1600,0.2,Debit Card
+ORD10058,2024-06-07,C040,Hema K,Electric Kettle,Home Appliances,South,2,1700,980,0.0,Cash
+ORD10059,2024-12-06,C012,Lakshmi K,Laptop,Electronics,South,4,52000,41000,0.2,Debit Card
+ORD10060,2025-01-26,C007,Vijay K,Study Table,Furniture,South,1,9500,6800,0.1,Credit Card
+ORD10061,2024-11-08,C023,Sanjay K,Air Fryer,Home Appliances,North,2,8500,6100,0.0,Credit Card
+ORD10062,2024-10-12,C022,Pooja R,Mixer Grinder,Home Appliances,East,1,4600,3200,0.05,Net Banking
+ORD10063,2024-12-05,C035,Senthil K,Mixer Grinder,Home Appliances,East,1,4600,3200,0.0,Credit Card
+ORD10064,2024-04-21,C003,Karthik R,Running Shoes,Fashion,East,5,3200,1900,0.1,Debit Card
+ORD10065,2025-06-07,C039,Surya P,Electric Kettle,Home Appliances,Central,1,1700,980,0.1,Credit Card
+ORD10066,2025-12-26,C003,Karthik R,Running Shoes,Fashion,Central,4,3200,1900,0.0,Net Banking
+ORD10067,2025-03-17,C024,Aarthi M,Bookshelf,Furniture,East,1,5200,3300,0.2,Net Banking
+ORD10068,2024-11-03,C008,Sneha R,Backpack,Fashion,West,5,1800,950,0.05,Debit Card
+ORD10069,2025-07-21,C019,Manoj T,Mixer Grinder,Home Appliances,West,2,4600,3200,0.0,Cash
+ORD10070,2025-08-05,C040,Hema K,Study Table,Furniture,Central,3,9500,6800,0.1,UPI
+ORD10071,2024-08-03,C019,Manoj T,T-Shirt,Fashion,Central,4,900,420,0.15,Debit Card
+ORD10072,2025-03-28,C029,Mohan V,Air Fryer,Home Appliances,West,2,8500,6100,0.15,Credit Card
+ORD10073,2025-06-11,C019,Manoj T,Headphones,Electronics,North,5,2200,1200,0.05,Credit Card
+ORD10074,2024-07-22,C015,Ravi P,T-Shirt,Fashion,North,2,900,420,0.0,Credit Card
+ORD10075,2024-03-15,C040,Hema K,Table Fan,Home Appliances,Central,4,2900,1850,0.1,Credit Card
+ORD10076,2025-02-13,C032,Gayathri R,Mixer Grinder,Home Appliances,North,2,4600,3200,0.0,UPI
+ORD10077,2024-06-29,C015,Ravi P,Electric Kettle,Home Appliances,North,5,1700,980,0.1,Net Banking
+ORD10078,2025-04-12,C008,Sneha R,Sofa,Furniture,Central,2,26000,19000,0.1,Net Banking
+ORD10079,2025-09-19,C029,Mohan V,Backpack,Fashion,Central,5,1800,950,0.1,Cash
+ORD10080,2025-04-05,C031,Dinesh S,Study Table,Furniture,East,3,9500,6800,0.0,Net Banking
+ORD10081,2024-10-08,C016,Deepa S,Table Fan,Home Appliances,East,4,2900,1850,0.0,Credit Card
+ORD10082,2024-11-23,C022,Pooja R,Running Shoes,Fashion,South,5,3200,1900,0.0,Credit Card
+ORD10083,2025-12-11,C025,Gokul S,Sofa,Furniture,South,2,26000,19000,0.2,UPI
+ORD10084,2024-12-04,C027,Bala R,Electric Kettle,Home Appliances,West,5,1700,980,0.1,UPI
+ORD10085,2025-02-02,C027,Bala R,Bookshelf,Furniture,North,5,5200,3300,0.2,Net Banking
+ORD10086,2024-01-07,C031,Dinesh S,Mixer Grinder,Home Appliances,West,3,4600,3200,0.05,Cash
+ORD10087,2024-08-12,C032,Gayathri R,Sofa,Furniture,West,3,26000,19000,0.1,UPI
+ORD10088,2025-11-15,C022,Pooja R,Mixer Grinder,Home Appliances,South,4,4600,3200,0.2,Cash
+ORD10089,2025-06-30,C040,Hema K,Office Chair,Furniture,Central,1,6500,4300,0.1,Net Banking
+ORD10090,2025-10-20,C006,Anitha P,Laptop,Electronics,West,4,52000,41000,0.0,Credit Card
+ORD10091,2025-01-23,C017,Hari K,Smartphone,Electronics,West,3,24000,18500,0.0,Debit Card
+ORD10092,2024-10-11,C025,Gokul S,Backpack,Fashion,North,4,1800,950,0.05,Cash
+ORD10093,2024-02-23,C035,Senthil K,Laptop,Electronics,North,3,52000,41000,0.0,UPI
+ORD10094,2024-07-23,C016,Deepa S,Laptop,Electronics,South,1,52000,41000,0.15,Credit Card
+ORD10095,2025-11-16,C031,Dinesh S,Office Chair,Furniture,South,1,6500,4300,0.15,Cash
+ORD10096,2024-06-20,C024,Aarthi M,Running Shoes,Fashion,North,5,3200,1900,0.15,Credit Card
+ORD10097,2025-08-15,C007,Vijay K,T-Shirt,Fashion,Central,1,900,420,0.05,Cash
+ORD10098,2024-03-18,C013,Naveen M,Mixer Grinder,Home Appliances,South,5,4600,3200,0.2,UPI
+ORD10099,2024-05-03,C039,Surya P,T-Shirt,Fashion,East,5,900,420,0.0,Net Banking
+ORD10100,2024-03-11,C024,Aarthi M,Electric Kettle,Home Appliances,East,5,1700,980,0.2,UPI
+ORD10101,2024-04-18,C032,Gayathri R,Electric Kettle,Home Appliances,West,4,1700,980,0.05,Credit Card
+ORD10102,2025-06-18,C012,Lakshmi K,Electric Kettle,Home Appliances,Central,3,1700,980,0.15,Cash
+ORD10103,2025-08-29,C028,Kavya N,Air Fryer,Home Appliances,South,3,8500,6100,0.05,UPI
+ORD10104,2024-09-06,C029,Mohan V,Running Shoes,Fashion,Central,4,3200,1900,0.15,Cash
+ORD10105,2025-05-21,C002,Priya S,Backpack,Fashion,West,3,1800,950,0.0,Credit Card
+ORD10106,2024-12-14,C017,Hari K,Jacket,Fashion,East,3,2800,1600,0.15,Net Banking
+ORD10107,2024-07-14,C034,Ramya M,Laptop,Electronics,West,1,52000,41000,0.0,Cash
+ORD10108,2025-10-23,C031,Dinesh S,Sofa,Furniture,North,4,26000,19000,0.1,UPI
+ORD10109,2025-02-18,C015,Ravi P,T-Shirt,Fashion,Central,2,900,420,0.05,Debit Card
+ORD10110,2025-06-27,C036,Shalini V,Table Fan,Home Appliances,Central,3,2900,1850,0.1,Debit Card
+ORD10111,2024-10-04,C030,Revathi K,Jacket,Fashion,South,3,2800,1600,0.05,UPI
+ORD10112,2024-05-02,C021,Prakash V,Bookshelf,Furniture,South,5,5200,3300,0.2,Credit Card
+ORD10113,2024-10-10,C031,Dinesh S,Bookshelf,Furniture,Central,5,5200,3300,0.15,Debit Card
+ORD10114,2024-10-30,C013,Naveen M,Smartwatch,Electronics,South,2,4800,3100,0.05,Debit Card
+ORD10115,2024-05-09,C035,Senthil K,Laptop,Electronics,North,3,52000,41000,0.0,Net Banking
+ORD10116,2025-10-15,C009,Suresh B,T-Shirt,Fashion,North,4,900,420,0.0,Net Banking
+ORD10117,2025-05-05,C031,Dinesh S,T-Shirt,Fashion,South,4,900,420,0.05,UPI
+ORD10118,2024-04-26,C031,Dinesh S,Running Shoes,Fashion,West,1,3200,1900,0.1,UPI
+ORD10119,2024-06-01,C010,Meena S,Smartphone,Electronics,North,5,24000,18500,0.05,Credit Card
+ORD10120,2025-03-02,C036,Shalini V,Smartwatch,Electronics,Central,5,4800,3100,0.15,Credit Card
+ORD10121,2025-03-29,C029,Mohan V,Mixer Grinder,Home Appliances,West,3,4600,3200,0.15,Debit Card
+ORD10122,2024-04-11,C040,Hema K,Smartphone,Electronics,South,2,24000,18500,0.2,Debit Card
+ORD10123,2024-09-02,C011,Ajay V,Headphones,Electronics,North,2,2200,1200,0.15,Credit Card
+ORD10124,2025-04-06,C027,Bala R,Laptop,Electronics,East,5,52000,41000,0.1,UPI
+ORD10125,2025-12-24,C019,Manoj T,Sofa,Furniture,West,3,26000,19000,0.2,UPI
+ORD10126,2025-10-02,C017,Hari K,Sofa,Furniture,South,5,26000,19000,0.2,Cash
+ORD10127,2024-08-18,C035,Senthil K,Smartwatch,Electronics,South,2,4800,3100,0.05,UPI
+ORD10128,2024-11-10,C011,Ajay V,Smartphone,Electronics,Central,5,24000,18500,0.2,Debit Card
+ORD10129,2025-04-24,C008,Sneha R,Air Fryer,Home Appliances,West,3,8500,6100,0.2,Debit Card
+ORD10130,2024-03-23,C029,Mohan V,Table Fan,Home Appliances,West,5,2900,1850,0.0,Debit Card
+ORD10131,2024-04-03,C002,Priya S,Running Shoes,Fashion,Central,2,3200,1900,0.2,Net Banking
+ORD10132,2025-08-13,C018,Swathi N,Laptop,Electronics,West,1,52000,41000,0.0,Net Banking
+ORD10133,2024-07-04,C018,Swathi N,Air Fryer,Home Appliances,West,5,8500,6100,0.1,UPI
+ORD10134,2025-02-22,C023,Sanjay K,Table Fan,Home Appliances,North,3,2900,1850,0.05,Credit Card
+ORD10135,2025-12-11,C027,Bala R,Backpack,Fashion,West,4,1800,950,0.05,Net Banking
+ORD10136,2024-03-31,C030,Revathi K,Smartphone,Electronics,East,3,24000,18500,0.05,UPI
+ORD10137,2024-01-02,C033,Ashwin P,Mixer Grinder,Home Appliances,West,5,4600,3200,0.1,UPI
+ORD10138,2025-01-05,C034,Ramya M,Bookshelf,Furniture,West,5,5200,3300,0.1,UPI
+ORD10139,2025-07-16,C018,Swathi N,Bookshelf,Furniture,West,2,5200,3300,0.05,Cash
+ORD10140,2025-10-07,C002,Priya S,Smartwatch,Electronics,South,5,4800,3100,0.0,Debit Card
+ORD10141,2025-02-21,C036,Shalini V,Laptop,Electronics,North,1,52000,41000,0.0,Cash
+ORD10142,2025-05-25,C010,Meena S,Smartwatch,Electronics,East,3,4800,3100,0.15,Cash
+ORD10143,2024-09-06,C031,Dinesh S,Table Fan,Home Appliances,South,4,2900,1850,0.15,Cash
+ORD10144,2025-06-04,C039,Surya P,Bookshelf,Furniture,East,2,5200,3300,0.0,Cash
+ORD10145,2024-09-30,C033,Ashwin P,Backpack,Fashion,East,1,1800,950,0.05,Net Banking
+ORD10146,2025-04-02,C010,Meena S,Table Fan,Home Appliances,East,5,2900,1850,0.1,Debit Card
+ORD10147,2024-11-25,C030,Revathi K,Mixer Grinder,Home Appliances,South,2,4600,3200,0.2,Net Banking
+ORD10148,2025-02-24,C015,Ravi P,Mixer Grinder,Home Appliances,West,1,4600,3200,0.05,Cash
+ORD10149,2025-05-22,C010,Meena S,Mixer Grinder,Home Appliances,Central,1,4600,3200,0.0,Net Banking
+ORD10150,2025-03-26,C007,Vijay K,Backpack,Fashion,West,1,1800,950,0.15,UPI
+ORD10151,2025-11-01,C027,Bala R,Office Chair,Furniture,West,2,6500,4300,0.0,Debit Card
+ORD10152,2025-12-10,C040,Hema K,Backpack,Fashion,North,4,1800,950,0.2,Debit Card
+ORD10153,2025-10-03,C021,Prakash V,Mixer Grinder,Home Appliances,North,4,4600,3200,0.15,Net Banking
+ORD10154,2025-10-08,C016,Deepa S,Headphones,Electronics,North,3,2200,1200,0.0,Cash
+ORD10155,2025-03-30,C007,Vijay K,Smartwatch,Electronics,East,2,4800,3100,0.2,UPI
+ORD10156,2024-02-27,C021,Prakash V,Smartphone,Electronics,East,3,24000,18500,0.05,Cash
+ORD10157,2025-06-27,C016,Deepa S,Office Chair,Furniture,South,4,6500,4300,0.15,Credit Card
+ORD10158,2025-09-16,C006,Anitha P,Study Table,Furniture,South,4,9500,6800,0.15,Cash
+ORD10159,2025-04-17,C015,Ravi P,Office Chair,Furniture,East,3,6500,4300,0.1,UPI
+ORD10160,2025-11-24,C019,Manoj T,Air Fryer,Home Appliances,North,5,8500,6100,0.0,Cash
+ORD10161,2024-11-02,C038,Yamini R,Jacket,Fashion,East,4,2800,1600,0.2,Cash
+ORD10162,2025-01-28,C013,Naveen M,T-Shirt,Fashion,South,4,900,420,0.0,Cash
+ORD10163,2024-10-29,C037,Vignesh S,Jacket,Fashion,West,3,2800,1600,0.0,Debit Card
+ORD10164,2025-12-03,C037,Vignesh S,Laptop,Electronics,West,1,52000,41000,0.15,Debit Card
+ORD10165,2024-12-26,C039,Surya P,Sofa,Furniture,South,2,26000,19000,0.2,Net Banking
+ORD10166,2025-10-05,C009,Suresh B,Running Shoes,Fashion,North,1,3200,1900,0.2,Debit Card
+ORD10167,2025-08-16,C003,Karthik R,Air Fryer,Home Appliances,South,3,8500,6100,0.2,UPI
+ORD10168,2025-03-01,C021,Prakash V,T-Shirt,Fashion,South,2,900,420,0.0,Net Banking
+ORD10169,2025-05-28,C034,Ramya M,Jacket,Fashion,East,3,2800,1600,0.0,Cash
+ORD10170,2024-04-27,C022,Pooja R,T-Shirt,Fashion,South,4,900,420,0.0,Credit Card
+ORD10171,2025-01-09,C036,Shalini V,Mixer Grinder,Home Appliances,North,1,4600,3200,0.1,Debit Card
+ORD10172,2025-01-12,C030,Revathi K,Smartwatch,Electronics,West,3,4800,3100,0.15,Debit Card
+ORD10173,2025-04-27,C015,Ravi P,Smartwatch,Electronics,Central,1,4800,3100,0.15,Debit Card
+ORD10174,2025-10-12,C005,Rahul N,Sofa,Furniture,East,4,26000,19000,0.2,Cash
+ORD10175,2024-02-16,C009,Suresh B,Smartwatch,Electronics,West,1,4800,3100,0.05,UPI
+ORD10176,2025-07-04,C016,Deepa S,Smartwatch,Electronics,West,2,4800,3100,0.1,Debit Card
+ORD10177,2024-06-07,C038,Yamini R,Electric Kettle,Home Appliances,North,4,1700,980,0.2,Cash
+ORD10178,2024-02-03,C018,Swathi N,Electric Kettle,Home Appliances,West,3,1700,980,0.0,Cash
+ORD10179,2024-04-11,C024,Aarthi M,Sofa,Furniture,East,3,26000,19000,0.15,UPI
+ORD10180,2024-07-13,C018,Swathi N,Mixer Grinder,Home Appliances,North,1,4600,3200,0.1,Credit Card
+ORD10181,2024-12-07,C004,Divya M,Laptop,Electronics,Central,2,52000,41000,0.0,Credit Card
+ORD10182,2024-07-31,C036,Shalini V,Headphones,Electronics,South,5,2200,1200,0.0,Debit Card
+ORD10183,2024-01-03,C039,Surya P,Office Chair,Furniture,South,3,6500,4300,0.0,Net Banking
+ORD10184,2024-04-22,C012,Lakshmi K,Running Shoes,Fashion,North,1,3200,1900,0.0,Debit Card
+ORD10185,2024-11-27,C038,Yamini R,Sofa,Furniture,East,1,26000,19000,0.0,UPI
+ORD10186,2025-06-22,C027,Bala R,Office Chair,Furniture,North,1,6500,4300,0.2,Cash
+ORD10187,2025-06-09,C024,Aarthi M,Air Fryer,Home Appliances,West,5,8500,6100,0.0,Net Banking
+ORD10188,2024-02-14,C040,Hema K,Sofa,Furniture,West,5,26000,19000,0.05,UPI
+ORD10189,2025-02-15,C031,Dinesh S,Smartphone,Electronics,North,4,24000,18500,0.2,Cash
+ORD10190,2024-03-23,C005,Rahul N,Air Fryer,Home Appliances,South,3,8500,6100,0.15,UPI
+ORD10191,2025-10-01,C018,Swathi N,Office Chair,Furniture,East,5,6500,4300,0.15,Cash
+ORD10192,2025-06-01,C030,Revathi K,T-Shirt,Fashion,North,5,900,420,0.1,UPI
+ORD10193,2025-04-07,C028,Kavya N,Bookshelf,Furniture,East,2,5200,3300,0.1,Cash
+ORD10194,2024-04-07,C027,Bala R,Mixer Grinder,Home Appliances,East,3,4600,3200,0.1,Debit Card
+ORD10195,2025-12-04,C010,Meena S,Jacket,Fashion,North,4,2800,1600,0.0,UPI
+ORD10196,2024-04-08,C028,Kavya N,Headphones,Electronics,Central,3,2200,1200,0.0,UPI
+ORD10197,2025-02-24,C008,Sneha R,Backpack,Fashion,West,3,1800,950,0.2,UPI
+ORD10198,2024-11-15,C039,Surya P,T-Shirt,Fashion,Central,3,900,420,0.0,Net Banking
+ORD10199,2025-11-03,C010,Meena S,Bookshelf,Furniture,North,4,5200,3300,0.0,Debit Card
+ORD10200,2024-10-12,C008,Sneha R,Jacket,Fashion,West,5,2800,1600,0.0,Net Banking
+ORD10201,2025-11-04,C039,Surya P,Laptop,Electronics,South,3,52000,41000,0.0,Debit Card
+ORD10202,2024-12-25,C022,Pooja R,T-Shirt,Fashion,South,1,900,420,0.0,Net Banking
+ORD10203,2024-05-25,C005,Rahul N,Mixer Grinder,Home Appliances,Central,1,4600,3200,0.0,Credit Card
+ORD10204,2025-04-09,C027,Bala R,Mixer Grinder,Home Appliances,East,3,4600,3200,0.0,Debit Card
+ORD10205,2025-09-02,C037,Vignesh S,Backpack,Fashion,South,1,1800,950,0.0,Credit Card
+ORD10206,2024-10-05,C006,Anitha P,Smartphone,Electronics,West,4,24000,18500,0.2,Cash
+ORD10207,2024-10-06,C027,Bala R,Air Fryer,Home Appliances,North,2,8500,6100,0.15,Debit Card
+ORD10208,2024-10-17,C008,Sneha R,Electric Kettle,Home Appliances,Central,5,1700,980,0.1,Debit Card
+ORD10209,2025-02-08,C015,Ravi P,Smartphone,Electronics,North,5,24000,18500,0.0,Credit Card
+ORD10210,2024-05-20,C014,Keerthana R,T-Shirt,Fashion,East,3,900,420,0.05,UPI
+ORD10211,2025-03-16,C032,Gayathri R,Laptop,Electronics,West,2,52000,41000,0.0,Net Banking
+ORD10212,2025-07-26,C033,Ashwin P,Sofa,Furniture,West,3,26000,19000,0.0,UPI
+ORD10213,2025-04-15,C002,Priya S,Electric Kettle,Home Appliances,Central,1,1700,980,0.05,Cash
+ORD10214,2024-10-23,C027,Bala R,Mixer Grinder,Home Appliances,North,1,4600,3200,0.1,Debit Card
+ORD10215,2025-04-16,C040,Hema K,Study Table,Furniture,West,3,9500,6800,0.0,UPI
+ORD10216,2025-08-26,C028,Kavya N,Sofa,Furniture,North,4,26000,19000,0.15,Cash
+ORD10217,2024-08-14,C022,Pooja R,T-Shirt,Fashion,North,3,900,420,0.0,Net Banking
+ORD10218,2025-06-06,C034,Ramya M,Smartwatch,Electronics,East,2,4800,3100,0.05,Credit Card
+ORD10219,2024-05-29,C007,Vijay K,Sofa,Furniture,South,3,26000,19000,0.0,Net Banking
+ORD10220,2024-06-30,C005,Rahul N,Office Chair,Furniture,Central,4,6500,4300,0.1,Net Banking
+ORD10221,2025-10-20,C037,Vignesh S,Air Fryer,Home Appliances,East,5,8500,6100,0.05,Credit Card
+ORD10222,2025-04-25,C005,Rahul N,Air Fryer,Home Appliances,East,4,8500,6100,0.2,Debit Card
+ORD10223,2025-06-03,C023,Sanjay K,Smartphone,Electronics,West,1,24000,18500,0.05,Cash
+ORD10224,2025-01-12,C004,Divya M,Smartphone,Electronics,North,3,24000,18500,0.0,Net Banking
+ORD10225,2025-08-17,C030,Revathi K,Mixer Grinder,Home Appliances,North,5,4600,3200,0.2,Cash
+ORD10226,2025-09-11,C021,Prakash V,Bookshelf,Furniture,South,4,5200,3300,0.15,UPI
+ORD10227,2024-12-17,C007,Vijay K,Air Fryer,Home Appliances,South,1,8500,6100,0.15,UPI
+ORD10228,2025-03-25,C029,Mohan V,Sofa,Furniture,Central,5,26000,19000,0.15,Credit Card
+ORD10229,2024-10-16,C024,Aarthi M,Jacket,Fashion,East,4,2800,1600,0.1,Net Banking
+ORD10230,2024-03-08,C022,Pooja R,Smartphone,Electronics,Central,3,24000,18500,0.0,Cash
+ORD10231,2025-11-03,C017,Hari K,T-Shirt,Fashion,East,5,900,420,0.0,UPI
+ORD10232,2024-11-13,C023,Sanjay K,Office Chair,Furniture,Central,4,6500,4300,0.0,UPI
+ORD10233,2025-01-20,C036,Shalini V,T-Shirt,Fashion,Central,3,900,420,0.0,UPI
+ORD10234,2025-01-05,C033,Ashwin P,Electric Kettle,Home Appliances,East,1,1700,980,0.05,Credit Card
+ORD10235,2025-05-12,C022,Pooja R,Bookshelf,Furniture,South,2,5200,3300,0.0,Credit Card
+ORD10236,2024-04-13,C019,Manoj T,Headphones,Electronics,Central,5,2200,1200,0.15,UPI
+ORD10237,2024-05-14,C040,Hema K,Backpack,Fashion,South,5,1800,950,0.1,Credit Card
+ORD10238,2024-06-18,C040,Hema K,Study Table,Furniture,West,4,9500,6800,0.0,Debit Card
+ORD10239,2025-09-17,C029,Mohan V,Sofa,Furniture,West,3,26000,19000,0.2,Credit Card
+ORD10240,2025-04-25,C020,Nisha A,Sofa,Furniture,Central,2,26000,19000,0.05,Cash
+ORD10241,2025-01-26,C019,Manoj T,Air Fryer,Home Appliances,West,5,8500,6100,0.15,Credit Card
+ORD10242,2024-05-21,C039,Surya P,Bookshelf,Furniture,West,3,5200,3300,0.0,Debit Card
+ORD10243,2024-05-07,C034,Ramya M,Smartwatch,Electronics,South,3,4800,3100,0.0,Debit Card
+ORD10244,2024-05-30,C033,Ashwin P,Air Fryer,Home Appliances,South,4,8500,6100,0.0,Cash
+ORD10245,2025-02-28,C002,Priya S,Jacket,Fashion,Central,1,2800,1600,0.1,Debit Card
+ORD10246,2024-03-24,C025,Gokul S,Sofa,Furniture,North,3,26000,19000,0.0,Debit Card
+ORD10247,2024-05-29,C022,Pooja R,Smartwatch,Electronics,East,2,4800,3100,0.0,Cash
+ORD10248,2025-04-04,C031,Dinesh S,Office Chair,Furniture,North,5,6500,4300,0.0,UPI
+ORD10249,2024-06-02,C014,Keerthana R,Running Shoes,Fashion,Central,5,3200,1900,0.2,Net Banking
+ORD10250,2024-10-22,C008,Sneha R,Electric Kettle,Home Appliances,North,2,1700,980,0.05,UPI
+ORD10251,2025-10-16,C027,Bala R,Sofa,Furniture,North,5,26000,19000,0.1,UPI
+ORD10252,2025-07-02,C039,Surya P,Table Fan,Home Appliances,Central,1,2900,1850,0.2,Net Banking
+ORD10253,2024-10-25,C010,Meena S,Sofa,Furniture,Central,4,26000,19000,0.0,Debit Card
+ORD10254,2025-03-02,C037,Vignesh S,Sofa,Furniture,North,2,26000,19000,0.2,Net Banking
+ORD10255,2025-06-22,C005,Rahul N,Jacket,Fashion,Central,5,2800,1600,0.15,Net Banking
+ORD10256,2025-04-26,C025,Gokul S,Laptop,Electronics,West,1,52000,41000,0.2,Debit Card
+ORD10257,2024-12-31,C002,Priya S,Running Shoes,Fashion,South,1,3200,1900,0.05,UPI
+ORD10258,2024-02-15,C009,Suresh B,Backpack,Fashion,East,3,1800,950,0.15,Credit Card
+ORD10259,2025-10-08,C031,Dinesh S,Air Fryer,Home Appliances,North,2,8500,6100,0.0,Cash
+ORD10260,2024-07-25,C019,Manoj T,Smartphone,Electronics,North,1,24000,18500,0.0,Debit Card
+ORD10261,2025-02-11,C033,Ashwin P,T-Shirt,Fashion,East,5,900,420,0.1,UPI
+ORD10262,2024-12-31,C019,Manoj T,Bookshelf,Furniture,East,1,5200,3300,0.2,Debit Card
+ORD10263,2025-03-23,C024,Aarthi M,Smartwatch,Electronics,West,4,4800,3100,0.2,Cash
+ORD10264,2025-05-23,C012,Lakshmi K,Backpack,Fashion,Central,4,1800,950,0.05,Debit Card
+ORD10265,2024-03-21,C028,Kavya N,Headphones,Electronics,South,4,2200,1200,0.15,Net Banking
+ORD10266,2024-04-15,C021,Prakash V,T-Shirt,Fashion,East,1,900,420,0.05,Debit Card
+ORD10267,2025-03-12,C039,Surya P,Air Fryer,Home Appliances,West,2,8500,6100,0.2,Debit Card
+ORD10268,2024-12-27,C003,Karthik R,Air Fryer,Home Appliances,East,5,8500,6100,0.1,UPI
+ORD10269,2025-01-07,C026,Janani P,Headphones,Electronics,South,5,2200,1200,0.2,UPI
+ORD10270,2025-11-25,C039,Surya P,Office Chair,Furniture,South,4,6500,4300,0.0,UPI
+ORD10271,2025-01-05,C024,Aarthi M,Sofa,Furniture,North,4,26000,19000,0.15,Net Banking
+ORD10272,2025-01-14,C029,Mohan V,Office Chair,Furniture,North,3,6500,4300,0.1,Net Banking
+ORD10273,2025-01-10,C034,Ramya M,Office Chair,Furniture,East,4,6500,4300,0.05,Credit Card
+ORD10274,2024-07-09,C002,Priya S,Smartwatch,Electronics,West,4,4800,3100,0.15,Net Banking
+ORD10275,2024-09-23,C017,Hari K,Smartwatch,Electronics,Central,4,4800,3100,0.0,Debit Card
+ORD10276,2024-05-05,C013,Naveen M,Table Fan,Home Appliances,West,2,2900,1850,0.0,Credit Card
+ORD10277,2025-11-29,C006,Anitha P,Air Fryer,Home Appliances,East,3,8500,6100,0.2,UPI
+ORD10278,2024-06-10,C020,Nisha A,T-Shirt,Fashion,Central,2,900,420,0.05,Credit Card
+ORD10279,2024-05-22,C013,Naveen M,Smartwatch,Electronics,North,2,4800,3100,0.1,Debit Card
+ORD10280,2025-07-18,C030,Revathi K,Jacket,Fashion,North,2,2800,1600,0.15,UPI
+ORD10281,2025-05-05,C026,Janani P,T-Shirt,Fashion,West,5,900,420,0.1,Net Banking
+ORD10282,2024-11-20,C009,Suresh B,Headphones,Electronics,West,1,2200,1200,0.1,Net Banking
+ORD10283,2025-07-18,C009,Suresh B,Jacket,Fashion,South,5,2800,1600,0.0,Cash
+ORD10284,2025-06-14,C008,Sneha R,Smartphone,Electronics,South,2,24000,18500,0.05,Credit Card
+ORD10285,2024-12-20,C015,Ravi P,Backpack,Fashion,North,5,1800,950,0.05,Debit Card
+ORD10286,2024-10-08,C036,Shalini V,Bookshelf,Furniture,East,2,5200,3300,0.2,Net Banking
+ORD10287,2025-10-18,C033,Ashwin P,Headphones,Electronics,Central,2,2200,1200,0.15,Credit Card
+ORD10288,2025-09-11,C040,Hema K,Study Table,Furniture,North,3,9500,6800,0.15,UPI
+ORD10289,2025-10-18,C003,Karthik R,Headphones,Electronics,South,5,2200,1200,0.05,Net Banking
+ORD10290,2025-10-16,C040,Hema K,Electric Kettle,Home Appliances,Central,1,1700,980,0.1,Debit Card
+ORD10291,2024-09-07,C031,Dinesh S,T-Shirt,Fashion,West,4,900,420,0.05,UPI
+ORD10292,2025-03-26,C011,Ajay V,Smartphone,Electronics,West,4,24000,18500,0.1,Credit Card
+ORD10293,2024-05-27,C039,Surya P,Backpack,Fashion,East,3,1800,950,0.2,Debit Card
+ORD10294,2025-01-14,C009,Suresh B,Mixer Grinder,Home Appliances,North,5,4600,3200,0.15,Debit Card
+ORD10295,2024-05-05,C030,Revathi K,Sofa,Furniture,South,3,26000,19000,0.1,Credit Card
+ORD10296,2024-10-24,C004,Divya M,Smartwatch,Electronics,West,4,4800,3100,0.15,Credit Card
+ORD10297,2025-08-14,C021,Prakash V,Study Table,Furniture,South,3,9500,6800,0.0,Cash
+ORD10298,2024-11-11,C032,Gayathri R,Air Fryer,Home Appliances,North,4,8500,6100,0.0,Cash
+ORD10299,2024-08-08,C016,Deepa S,Air Fryer,Home Appliances,North,5,8500,6100,0.05,UPI
+ORD10300,2025-09-03,C032,Gayathri R,T-Shirt,Fashion,Central,4,900,420,0.05,UPI
+ORD10301,2024-05-17,C028,Kavya N,Smartwatch,Electronics,East,3,4800,3100,0.2,Cash
+ORD10302,2025-02-14,C003,Karthik R,Jacket,Fashion,Central,1,2800,1600,0.15,Credit Card
+ORD10303,2024-10-22,C036,Shalini V,Jacket,Fashion,Central,1,2800,1600,0.1,Cash
+ORD10304,2025-11-27,C040,Hema K,Running Shoes,Fashion,South,5,3200,1900,0.0,UPI
+ORD10305,2024-12-13,C024,Aarthi M,Mixer Grinder,Home Appliances,South,5,4600,3200,0.05,Credit Card
+ORD10306,2024-02-11,C033,Ashwin P,Mixer Grinder,Home Appliances,South,1,4600,3200,0.0,Debit Card
+ORD10307,2025-04-12,C034,Ramya M,Table Fan,Home Appliances,Central,2,2900,1850,0.15,Credit Card
+ORD10308,2024-11-22,C040,Hema K,Backpack,Fashion,Central,2,1800,950,0.1,Debit Card
+ORD10309,2025-06-05,C033,Ashwin P,Backpack,Fashion,Central,5,1800,950,0.1,Debit Card
+ORD10310,2025-01-12,C002,Priya S,Table Fan,Home Appliances,North,3,2900,1850,0.2,Cash
+ORD10311,2025-09-03,C002,Priya S,T-Shirt,Fashion,Central,4,900,420,0.05,Net Banking
+ORD10312,2025-08-20,C004,Divya M,Sofa,Furniture,Central,4,26000,19000,0.0,Net Banking
+ORD10313,2025-11-28,C010,Meena S,Mixer Grinder,Home Appliances,Central,2,4600,3200,0.0,UPI
+ORD10314,2025-03-27,C002,Priya S,Bookshelf,Furniture,South,3,5200,3300,0.1,Cash
+ORD10315,2025-05-28,C027,Bala R,Bookshelf,Furniture,North,5,5200,3300,0.1,Credit Card
+ORD10316,2024-11-28,C036,Shalini V,Bookshelf,Furniture,West,4,5200,3300,0.15,Debit Card
+ORD10317,2025-06-29,C030,Revathi K,Study Table,Furniture,East,3,9500,6800,0.15,Debit Card
+ORD10318,2024-09-09,C013,Naveen M,Table Fan,Home Appliances,East,3,2900,1850,0.15,Credit Card
+ORD10319,2025-12-22,C019,Manoj T,T-Shirt,Fashion,West,2,900,420,0.2,Debit Card
+ORD10320,2025-07-27,C023,Sanjay K,Table Fan,Home Appliances,North,3,2900,1850,0.05,Net Banking
+ORD10321,2024-12-19,C026,Janani P,Mixer Grinder,Home Appliances,North,2,4600,3200,0.05,Debit Card
+ORD10322,2025-03-28,C023,Sanjay K,Headphones,Electronics,West,3,2200,1200,0.2,Credit Card
+ORD10323,2024-10-04,C035,Senthil K,Bookshelf,Furniture,East,5,5200,3300,0.2,Credit Card
+ORD10324,2025-08-23,C040,Hema K,Smartwatch,Electronics,North,2,4800,3100,0.0,Net Banking
+ORD10325,2024-02-23,C015,Ravi P,Sofa,Furniture,East,1,26000,19000,0.1,Cash
+ORD10326,2024-01-06,C009,Suresh B,Smartwatch,Electronics,West,5,4800,3100,0.0,Cash
+ORD10327,2024-10-21,C013,Naveen M,Table Fan,Home Appliances,North,3,2900,1850,0.05,UPI
+ORD10328,2024-02-08,C035,Senthil K,Sofa,Furniture,South,2,26000,19000,0.1,UPI
+ORD10329,2024-07-09,C032,Gayathri R,Mixer Grinder,Home Appliances,North,3,4600,3200,0.0,Debit Card
+ORD10330,2024-10-18,C022,Pooja R,Smartwatch,Electronics,Central,4,4800,3100,0.2,Net Banking
+ORD10331,2025-05-31,C009,Suresh B,Table Fan,Home Appliances,South,4,2900,1850,0.05,UPI
+ORD10332,2025-04-14,C011,Ajay V,Backpack,Fashion,South,3,1800,950,0.2,UPI
+ORD10333,2025-08-04,C019,Manoj T,Backpack,Fashion,Central,2,1800,950,0.0,Cash
+ORD10334,2024-12-01,C033,Ashwin P,Electric Kettle,Home Appliances,North,1,1700,980,0.1,Credit Card
+ORD10335,2024-11-27,C031,Dinesh S,Office Chair,Furniture,East,2,6500,4300,0.0,Cash
+ORD10336,2024-09-30,C029,Mohan V,Sofa,Furniture,Central,3,26000,19000,0.05,Net Banking
+ORD10337,2025-10-31,C017,Hari K,Laptop,Electronics,South,3,52000,41000,0.2,UPI
+ORD10338,2024-11-10,C030,Revathi K,Smartwatch,Electronics,Central,2,4800,3100,0.1,Debit Card
+ORD10339,2025-01-11,C019,Manoj T,Smartwatch,Electronics,South,5,4800,3100,0.0,Credit Card
+ORD10340,2025-04-10,C010,Meena S,Table Fan,Home Appliances,West,5,2900,1850,0.05,Net Banking
+ORD10341,2025-11-11,C035,Senthil K,Table Fan,Home Appliances,Central,2,2900,1850,0.0,UPI
+ORD10342,2025-12-21,C034,Ramya M,Air Fryer,Home Appliances,Central,3,8500,6100,0.0,UPI
+ORD10343,2025-06-01,C036,Shalini V,Smartphone,Electronics,Central,2,24000,18500,0.15,Credit Card
+ORD10344,2025-06-16,C021,Prakash V,Study Table,Furniture,South,4,9500,6800,0.0,Net Banking
+ORD10345,2025-06-06,C006,Anitha P,Table Fan,Home Appliances,West,4,2900,1850,0.0,Credit Card
+ORD10346,2025-07-31,C030,Revathi K,Electric Kettle,Home Appliances,West,1,1700,980,0.15,Debit Card
+ORD10347,2024-09-17,C026,Janani P,Laptop,Electronics,South,1,52000,41000,0.2,Net Banking
+ORD10348,2025-03-09,C003,Karthik R,Headphones,Electronics,North,3,2200,1200,0.2,Net Banking
+ORD10349,2025-04-28,C005,Rahul N,Smartphone,Electronics,West,1,24000,18500,0.05,Credit Card
+ORD10350,2025-01-18,C027,Bala R,Office Chair,Furniture,West,4,6500,4300,0.1,Cash
+ORD10351,2024-05-16,C035,Senthil K,Headphones,Electronics,South,3,2200,1200,0.0,Net Banking
+ORD10352,2024-05-10,C034,Ramya M,Mixer Grinder,Home Appliances,North,2,4600,3200,0.0,Debit Card
+ORD10353,2025-03-10,C035,Senthil K,Air Fryer,Home Appliances,South,5,8500,6100,0.1,Credit Card
+ORD10354,2024-06-07,C023,Sanjay K,Air Fryer,Home Appliances,North,3,8500,6100,0.0,UPI
+ORD10355,2024-01-17,C040,Hema K,Electric Kettle,Home Appliances,North,2,1700,980,0.0,UPI
+ORD10356,2025-09-04,C029,Mohan V,Smartphone,Electronics,North,1,24000,18500,0.0,Cash
+ORD10357,2025-07-06,C015,Ravi P,Air Fryer,Home Appliances,South,2,8500,6100,0.0,Net Banking
+ORD10358,2025-08-12,C015,Ravi P,T-Shirt,Fashion,Central,3,900,420,0.15,Debit Card
+ORD10359,2024-05-26,C020,Nisha A,Sofa,Furniture,West,5,26000,19000,0.0,Debit Card
+ORD10360,2025-07-24,C004,Divya M,Running Shoes,Fashion,South,5,3200,1900,0.2,Cash
+ORD10361,2024-12-18,C004,Divya M,Table Fan,Home Appliances,East,4,2900,1850,0.15,Cash
+ORD10362,2024-11-03,C010,Meena S,Electric Kettle,Home Appliances,Central,4,1700,980,0.0,Cash
+ORD10363,2024-11-03,C015,Ravi P,Sofa,Furniture,North,2,26000,19000,0.1,Net Banking
+ORD10364,2025-07-24,C027,Bala R,Electric Kettle,Home Appliances,West,5,1700,980,0.0,Credit Card
+ORD10365,2024-12-04,C014,Keerthana R,Running Shoes,Fashion,East,1,3200,1900,0.1,UPI
+ORD10366,2024-10-01,C004,Divya M,Bookshelf,Furniture,Central,4,5200,3300,0.2,Net Banking
+ORD10367,2024-07-11,C005,Rahul N,Smartphone,Electronics,Central,5,24000,18500,0.2,Credit Card
+ORD10368,2024-12-06,C014,Keerthana R,Table Fan,Home Appliances,South,3,2900,1850,0.0,Credit Card
+ORD10369,2024-09-05,C031,Dinesh S,Smartwatch,Electronics,South,5,4800,3100,0.2,Cash
+ORD10370,2024-11-25,C036,Shalini V,Sofa,Furniture,West,3,26000,19000,0.1,Net Banking
+ORD10371,2024-09-24,C020,Nisha A,Jacket,Fashion,West,3,2800,1600,0.15,Cash
+ORD10372,2024-11-23,C031,Dinesh S,Smartwatch,Electronics,East,2,4800,3100,0.05,Cash
+ORD10373,2024-08-14,C037,Vignesh S,Smartphone,Electronics,East,2,24000,18500,0.0,Net Banking
+ORD10374,2024-06-05,C019,Manoj T,Electric Kettle,Home Appliances,South,2,1700,980,0.05,Cash
+ORD10375,2025-07-17,C032,Gayathri R,Sofa,Furniture,West,3,26000,19000,0.05,Cash
+ORD10376,2024-12-26,C011,Ajay V,Air Fryer,Home Appliances,Central,2,8500,6100,0.0,Cash
+ORD10377,2025-10-19,C035,Senthil K,Study Table,Furniture,North,1,9500,6800,0.15,UPI
+ORD10378,2025-02-26,C001,Arun Kumar,Smartphone,Electronics,South,2,24000,18500,0.2,UPI
+ORD10379,2024-08-11,C001,Arun Kumar,Office Chair,Furniture,East,5,6500,4300,0.1,UPI
+ORD10380,2024-01-17,C032,Gayathri R,Table Fan,Home Appliances,Central,1,2900,1850,0.15,Cash
+ORD10381,2025-06-26,C002,Priya S,Laptop,Electronics,East,3,52000,41000,0.15,UPI
+ORD10382,2024-04-19,C012,Lakshmi K,Electric Kettle,Home Appliances,South,1,1700,980,0.15,Credit Card
+ORD10383,2025-06-23,C040,Hema K,Bookshelf,Furniture,East,3,5200,3300,0.05,Cash
+ORD10384,2025-02-19,C024,Aarthi M,Headphones,Electronics,South,4,2200,1200,0.15,Credit Card
+ORD10385,2025-10-31,C006,Anitha P,T-Shirt,Fashion,West,1,900,420,0.0,Cash
+ORD10386,2025-05-02,C036,Shalini V,Mixer Grinder,Home Appliances,North,1,4600,3200,0.2,Credit Card
+ORD10387,2025-03-20,C032,Gayathri R,Headphones,Electronics,North,3,2200,1200,0.15,Net Banking
+ORD10388,2024-08-04,C015,Ravi P,Smartphone,Electronics,East,5,24000,18500,0.1,UPI
+ORD10389,2025-07-10,C018,Swathi N,Headphones,Electronics,North,5,2200,1200,0.2,Credit Card
+ORD10390,2024-07-31,C002,Priya S,Backpack,Fashion,West,5,1800,950,0.0,UPI
+ORD10391,2025-07-31,C011,Ajay V,T-Shirt,Fashion,West,2,900,420,0.15,Net Banking
+ORD10392,2024-05-23,C025,Gokul S,Backpack,Fashion,East,1,1800,950,0.15,UPI
+ORD10393,2024-08-25,C028,Kavya N,Smartwatch,Electronics,Central,1,4800,3100,0.05,Net Banking
+ORD10394,2024-01-31,C021,Prakash V,Mixer Grinder,Home Appliances,West,3,4600,3200,0.1,Credit Card
+ORD10395,2025-01-19,C036,Shalini V,Jacket,Fashion,Central,4,2800,1600,0.0,Cash
+ORD10396,2024-10-29,C040,Hema K,Headphones,Electronics,North,2,2200,1200,0.2,UPI
+ORD10397,2025-01-24,C010,Meena S,Running Shoes,Fashion,West,2,3200,1900,0.2,Debit Card
+ORD10398,2024-04-03,C007,Vijay K,Jacket,Fashion,West,1,2800,1600,0.05,Debit Card
+ORD10399,2024-05-15,C007,Vijay K,Running Shoes,Fashion,West,1,3200,1900,0.0,Cash
+ORD10400,2024-01-27,C007,Vijay K,Electric Kettle,Home Appliances,Central,1,1700,980,0.05,UPI
+ORD10401,2024-01-13,C025,Gokul S,Backpack,Fashion,West,3,1800,950,0.1,UPI
+ORD10402,2025-06-17,C037,Vignesh S,Sofa,Furniture,West,2,26000,19000,0.2,Credit Card
+ORD10403,2024-11-04,C018,Swathi N,Office Chair,Furniture,South,3,6500,4300,0.1,UPI
+ORD10404,2024-10-09,C028,Kavya N,Study Table,Furniture,West,4,9500,6800,0.05,UPI
+ORD10405,2024-09-09,C017,Hari K,Jacket,Fashion,Central,4,2800,1600,0.15,Credit Card
+ORD10406,2024-05-18,C007,Vijay K,Air Fryer,Home Appliances,West,3,8500,6100,0.0,Debit Card
+ORD10407,2025-03-26,C022,Pooja R,Mixer Grinder,Home Appliances,Central,3,4600,3200,0.1,Credit Card
+ORD10408,2025-09-09,C021,Prakash V,T-Shirt,Fashion,East,2,900,420,0.1,Credit Card
+ORD10409,2024-10-25,C021,Prakash V,Mixer Grinder,Home Appliances,South,4,4600,3200,0.15,Debit Card
+ORD10410,2025-02-06,C018,Swathi N,Mixer Grinder,Home Appliances,Central,3,4600,3200,0.0,Credit Card
+ORD10411,2024-01-28,C036,Shalini V,Study Table,Furniture,South,4,9500,6800,0.2,Cash
+ORD10412,2025-02-22,C005,Rahul N,T-Shirt,Fashion,East,4,900,420,0.0,Credit Card
+ORD10413,2025-03-09,C010,Meena S,Running Shoes,Fashion,West,4,3200,1900,0.0,Net Banking
+ORD10414,2025-02-14,C038,Yamini R,Table Fan,Home Appliances,West,5,2900,1850,0.15,Net Banking
+ORD10415,2025-12-19,C024,Aarthi M,Smartphone,Electronics,North,5,24000,18500,0.15,UPI
+ORD10416,2024-06-19,C023,Sanjay K,Sofa,Furniture,Central,5,26000,19000,0.0,Cash
+ORD10417,2024-04-18,C028,Kavya N,Backpack,Fashion,East,1,1800,950,0.0,Credit Card
+ORD10418,2025-01-18,C029,Mohan V,Sofa,Furniture,Central,4,26000,19000,0.1,Net Banking
+ORD10419,2024-01-26,C023,Sanjay K,Office Chair,Furniture,East,4,6500,4300,0.0,Cash
+ORD10420,2024-05-25,C008,Sneha R,Headphones,Electronics,East,3,2200,1200,0.05,Cash
+ORD10421,2025-05-09,C034,Ramya M,Bookshelf,Furniture,North,3,5200,3300,0.1,Cash
+ORD10422,2024-03-09,C021,Prakash V,Air Fryer,Home Appliances,North,3,8500,6100,0.0,UPI
+ORD10423,2025-11-24,C007,Vijay K,Backpack,Fashion,South,2,1800,950,0.2,Net Banking
+ORD10424,2024-06-12,C036,Shalini V,Study Table,Furniture,West,3,9500,6800,0.15,Cash
+ORD10425,2025-10-06,C026,Janani P,Sofa,Furniture,West,2,26000,19000,0.0,Cash
+ORD10426,2024-07-21,C040,Hema K,Laptop,Electronics,West,4,52000,41000,0.15,Cash
+ORD10427,2024-07-29,C014,Keerthana R,Laptop,Electronics,North,3,52000,41000,0.2,Net Banking
+ORD10428,2024-07-10,C035,Senthil K,Smartwatch,Electronics,South,3,4800,3100,0.05,Cash
+ORD10429,2025-11-17,C017,Hari K,Smartwatch,Electronics,East,4,4800,3100,0.15,Net Banking
+ORD10430,2025-02-05,C040,Hema K,Mixer Grinder,Home Appliances,East,5,4600,3200,0.0,Debit Card
+ORD10431,2024-06-25,C040,Hema K,Air Fryer,Home Appliances,Central,3,8500,6100,0.15,UPI
+ORD10432,2024-04-30,C021,Prakash V,Office Chair,Furniture,North,2,6500,4300,0.05,Credit Card
+ORD10433,2025-06-07,C010,Meena S,Jacket,Fashion,Central,4,2800,1600,0.1,Credit Card
+ORD10434,2024-07-09,C028,Kavya N,Mixer Grinder,Home Appliances,Central,4,4600,3200,0.2,Credit Card
+ORD10435,2024-10-22,C032,Gayathri R,Study Table,Furniture,East,2,9500,6800,0.0,Cash
+ORD10436,2024-01-10,C023,Sanjay K,Smartphone,Electronics,South,4,24000,18500,0.0,Cash
+ORD10437,2025-12-02,C027,Bala R,Table Fan,Home Appliances,West,4,2900,1850,0.1,Cash
+ORD10438,2025-08-01,C006,Anitha P,Study Table,Furniture,East,1,9500,6800,0.0,UPI
+ORD10439,2025-07-04,C015,Ravi P,Running Shoes,Fashion,West,3,3200,1900,0.0,Net Banking
+ORD10440,2025-06-07,C036,Shalini V,Table Fan,Home Appliances,North,1,2900,1850,0.15,Debit Card
+ORD10441,2024-02-12,C035,Senthil K,Jacket,Fashion,South,4,2800,1600,0.15,Cash
+ORD10442,2024-10-31,C016,Deepa S,Smartwatch,Electronics,East,1,4800,3100,0.1,Debit Card
+ORD10443,2024-04-30,C029,Mohan V,Headphones,Electronics,Central,2,2200,1200,0.0,Debit Card
+ORD10444,2025-09-22,C011,Ajay V,Electric Kettle,Home Appliances,South,2,1700,980,0.0,UPI
+ORD10445,2024-10-14,C035,Senthil K,Jacket,Fashion,South,5,2800,1600,0.15,Debit Card
+ORD10446,2025-08-09,C019,Manoj T,T-Shirt,Fashion,North,3,900,420,0.15,Credit Card
+ORD10447,2024-10-10,C004,Divya M,Electric Kettle,Home Appliances,South,2,1700,980,0.2,Credit Card
+ORD10448,2024-09-10,C021,Prakash V,Office Chair,Furniture,South,4,6500,4300,0.1,Net Banking
+ORD10449,2025-01-19,C027,Bala R,Running Shoes,Fashion,North,4,3200,1900,0.0,Cash
+ORD10450,2025-04-10,C024,Aarthi M,Running Shoes,Fashion,Central,4,3200,1900,0.05,UPI
+ORD10451,2025-10-12,C030,Revathi K,Headphones,Electronics,Central,3,2200,1200,0.0,Cash
+ORD10452,2024-08-04,C028,Kavya N,Bookshelf,Furniture,East,4,5200,3300,0.05,Debit Card
+ORD10453,2025-08-14,C036,Shalini V,Backpack,Fashion,West,2,1800,950,0.15,Debit Card
+ORD10454,2024-04-11,C003,Karthik R,Smartphone,Electronics,North,4,24000,18500,0.0,Credit Card
+ORD10455,2024-01-01,C030,Revathi K,Air Fryer,Home Appliances,South,4,8500,6100,0.0,Debit Card
+ORD10456,2024-04-05,C018,Swathi N,Study Table,Furniture,North,3,9500,6800,0.05,Debit Card
+ORD10457,2025-02-09,C004,Divya M,Study Table,Furniture,South,3,9500,6800,0.2,Cash
+ORD10458,2024-01-02,C007,Vijay K,Headphones,Electronics,North,2,2200,1200,0.1,Credit Card
+ORD10459,2025-11-27,C034,Ramya M,Sofa,Furniture,North,4,26000,19000,0.0,Debit Card
+ORD10460,2025-12-11,C028,Kavya N,Smartwatch,Electronics,North,2,4800,3100,0.1,Credit Card
+ORD10461,2024-04-14,C006,Anitha P,Mixer Grinder,Home Appliances,East,1,4600,3200,0.05,Debit Card
+ORD10462,2024-05-16,C025,Gokul S,Office Chair,Furniture,Central,2,6500,4300,0.0,Net Banking
+ORD10463,2025-10-27,C040,Hema K,Laptop,Electronics,East,2,52000,41000,0.1,Credit Card
+ORD10464,2025-09-22,C027,Bala R,Office Chair,Furniture,North,4,6500,4300,0.0,UPI
+ORD10465,2025-08-26,C008,Sneha R,Office Chair,Furniture,West,4,6500,4300,0.05,Debit Card
+ORD10466,2024-10-10,C016,Deepa S,Office Chair,Furniture,Central,1,6500,4300,0.0,Net Banking
+ORD10467,2025-11-05,C002,Priya S,T-Shirt,Fashion,Central,3,900,420,0.0,Net Banking
+ORD10468,2024-10-29,C026,Janani P,Bookshelf,Furniture,West,1,5200,3300,0.0,Cash
+ORD10469,2025-05-26,C016,Deepa S,Smartwatch,Electronics,Central,5,4800,3100,0.0,UPI
+ORD10470,2024-05-15,C021,Prakash V,Jacket,Fashion,West,4,2800,1600,0.15,Debit Card
+ORD10471,2024-03-15,C031,Dinesh S,Study Table,Furniture,North,1,9500,6800,0.15,UPI
+ORD10472,2024-02-10,C014,Keerthana R,Running Shoes,Fashion,Central,1,3200,1900,0.1,Debit Card
+ORD10473,2025-12-19,C028,Kavya N,Electric Kettle,Home Appliances,Central,4,1700,980,0.0,Net Banking
+ORD10474,2024-03-26,C018,Swathi N,Office Chair,Furniture,Central,3,6500,4300,0.0,Credit Card
+ORD10475,2024-11-30,C035,Senthil K,Office Chair,Furniture,North,4,6500,4300,0.15,Debit Card
+ORD10476,2024-02-29,C016,Deepa S,Electric Kettle,Home Appliances,West,2,1700,980,0.0,UPI
+ORD10477,2025-09-15,C040,Hema K,Air Fryer,Home Appliances,South,1,8500,6100,0.05,UPI
+ORD10478,2025-12-19,C009,Suresh B,Laptop,Electronics,West,1,52000,41000,0.0,Debit Card
+ORD10479,2025-01-15,C011,Ajay V,Running Shoes,Fashion,East,2,3200,1900,0.2,UPI
+ORD10480,2025-03-15,C022,Pooja R,Laptop,Electronics,North,3,52000,41000,0.15,Debit Card
+ORD10481,2025-04-11,C032,Gayathri R,Headphones,Electronics,North,5,2200,1200,0.05,Cash
+ORD10482,2024-06-10,C024,Aarthi M,Study Table,Furniture,Central,3,9500,6800,0.0,UPI
+ORD10483,2024-01-03,C033,Ashwin P,Sofa,Furniture,South,1,26000,19000,0.0,UPI
+ORD10484,2025-01-27,C024,Aarthi M,Table Fan,Home Appliances,North,2,2900,1850,0.0,Net Banking
+ORD10485,2024-11-25,C015,Ravi P,Electric Kettle,Home Appliances,East,2,1700,980,0.1,Debit Card
+ORD10486,2025-01-16,C037,Vignesh S,Headphones,Electronics,North,1,2200,1200,0.15,Credit Card
+ORD10487,2024-02-17,C034,Ramya M,Sofa,Furniture,West,4,26000,19000,0.0,Debit Card
+ORD10488,2024-03-29,C021,Prakash V,T-Shirt,Fashion,North,5,900,420,0.1,Debit Card
+ORD10489,2025-07-31,C019,Manoj T,Bookshelf,Furniture,Central,3,5200,3300,0.2,Credit Card
+ORD10490,2025-08-28,C024,Aarthi M,Air Fryer,Home Appliances,Central,4,8500,6100,0.0,Credit Card
+ORD10491,2025-02-23,C001,Arun Kumar,Office Chair,Furniture,Central,1,6500,4300,0.0,Debit Card
+ORD10492,2024-01-02,C022,Pooja R,Laptop,Electronics,East,4,52000,41000,0.2,UPI
+ORD10493,2024-08-31,C034,Ramya M,Bookshelf,Furniture,North,4,5200,3300,0.1,Credit Card
+ORD10494,2024-02-14,C006,Anitha P,Running Shoes,Fashion,West,2,3200,1900,0.15,Debit Card
+ORD10495,2025-08-17,C006,Anitha P,Air Fryer,Home Appliances,South,1,8500,6100,0.15,Cash
+ORD10496,2025-08-04,C038,Yamini R,Headphones,Electronics,South,1,2200,1200,0.1,Credit Card
+ORD10497,2024-11-18,C017,Hari K,T-Shirt,Fashion,East,4,900,420,0.2,Debit Card
+ORD10498,2024-08-27,C018,Swathi N,Air Fryer,Home Appliances,South,1,8500,6100,0.0,Net Banking
+ORD10499,2024-04-18,C010,Meena S,Smartwatch,Electronics,West,2,4800,3100,0.1,Debit Card
+ORD10500,2025-07-02,C008,Sneha R,Electric Kettle,Home Appliances,West,3,1700,980,0.0,Debit Card
+ORD10501,2024-05-02,C017,Hari K,Air Fryer,Home Appliances,East,1,8500,6100,0.0,Net Banking
+ORD10502,2024-12-01,C014,Keerthana R,Smartphone,Electronics,South,2,24000,18500,0.0,Debit Card
+ORD10503,2024-02-20,C033,Ashwin P,Mixer Grinder,Home Appliances,South,3,4600,3200,0.05,UPI
+ORD10504,2025-07-23,C029,Mohan V,Mixer Grinder,Home Appliances,North,5,4600,3200,0.0,Cash
+ORD10505,2024-05-04,C009,Suresh B,Smartwatch,Electronics,South,1,4800,3100,0.0,Credit Card
+ORD10506,2025-01-16,C026,Janani P,Bookshelf,Furniture,Central,1,5200,3300,0.15,Debit Card
+ORD10507,2024-03-07,C002,Priya S,Headphones,Electronics,West,2,2200,1200,0.2,Credit Card
+ORD10508,2024-05-05,C022,Pooja R,Headphones,Electronics,North,1,2200,1200,0.1,Credit Card
+ORD10509,2025-05-23,C026,Janani P,Electric Kettle,Home Appliances,West,1,1700,980,0.1,Credit Card
+ORD10510,2024-07-10,C014,Keerthana R,Jacket,Fashion,West,3,2800,1600,0.05,Credit Card
+ORD10511,2025-09-26,C040,Hema K,Smartphone,Electronics,East,5,24000,18500,0.0,Cash
+ORD10512,2025-05-05,C036,Shalini V,Electric Kettle,Home Appliances,East,1,1700,980,0.0,Cash
+ORD10513,2024-07-23,C027,Bala R,Office Chair,Furniture,Central,5,6500,4300,0.0,UPI
+ORD10514,2025-05-06,C023,Sanjay K,Mixer Grinder,Home Appliances,East,5,4600,3200,0.1,Net Banking
+ORD10515,2024-10-03,C025,Gokul S,Backpack,Fashion,East,2,1800,950,0.0,Net Banking
+ORD10516,2024-10-14,C002,Priya S,Sofa,Furniture,Central,1,26000,19000,0.1,Debit Card
+ORD10517,2024-04-12,C011,Ajay V,Sofa,Furniture,South,2,26000,19000,0.2,Debit Card
+ORD10518,2025-08-12,C015,Ravi P,Smartphone,Electronics,South,4,24000,18500,0.05,Credit Card
+ORD10519,2024-11-21,C038,Yamini R,Sofa,Furniture,North,3,26000,19000,0.15,Debit Card
+ORD10520,2024-07-11,C037,Vignesh S,Office Chair,Furniture,East,4,6500,4300,0.15,Credit Card
+ORD10521,2024-04-02,C003,Karthik R,Table Fan,Home Appliances,Central,1,2900,1850,0.0,Credit Card
+ORD10522,2025-05-04,C034,Ramya M,Laptop,Electronics,Central,1,52000,41000,0.05,Credit Card
+ORD10523,2024-06-30,C022,Pooja R,Office Chair,Furniture,North,3,6500,4300,0.0,Credit Card
+ORD10524,2025-06-22,C008,Sneha R,Office Chair,Furniture,East,3,6500,4300,0.0,Cash
+ORD10525,2024-11-05,C022,Pooja R,Smartwatch,Electronics,South,3,4800,3100,0.0,Cash
+ORD10526,2024-06-27,C021,Prakash V,Table Fan,Home Appliances,Central,5,2900,1850,0.2,Debit Card
+ORD10527,2024-06-28,C038,Yamini R,Sofa,Furniture,East,4,26000,19000,0.05,Credit Card
+ORD10528,2025-12-19,C001,Arun Kumar,Study Table,Furniture,Central,5,9500,6800,0.1,UPI
+ORD10529,2024-11-21,C039,Surya P,Study Table,Furniture,Central,5,9500,6800,0.0,UPI
+ORD10530,2024-12-05,C010,Meena S,Table Fan,Home Appliances,East,1,2900,1850,0.0,Debit Card
+ORD10531,2025-12-26,C006,Anitha P,Study Table,Furniture,North,3,9500,6800,0.1,Debit Card
+ORD10532,2025-12-10,C016,Deepa S,Bookshelf,Furniture,East,1,5200,3300,0.05,UPI
+ORD10533,2025-01-30,C004,Divya M,Laptop,Electronics,West,4,52000,41000,0.2,Credit Card
+ORD10534,2025-01-22,C032,Gayathri R,Electric Kettle,Home Appliances,West,3,1700,980,0.15,UPI
+ORD10535,2025-10-28,C037,Vignesh S,Table Fan,Home Appliances,West,2,2900,1850,0.0,UPI
+ORD10536,2024-01-21,C019,Manoj T,Smartphone,Electronics,North,3,24000,18500,0.05,UPI
+ORD10537,2025-01-19,C011,Ajay V,Backpack,Fashion,North,2,1800,950,0.2,Net Banking
+ORD10538,2025-08-31,C022,Pooja R,Headphones,Electronics,North,5,2200,1200,0.1,Cash
+ORD10539,2025-03-20,C039,Surya P,Study Table,Furniture,North,2,9500,6800,0.0,Debit Card
+ORD10540,2025-02-23,C013,Naveen M,Bookshelf,Furniture,Central,5,5200,3300,0.2,Debit Card
+ORD10541,2024-08-31,C020,Nisha A,T-Shirt,Fashion,West,1,900,420,0.0,Net Banking
+ORD10542,2024-02-25,C010,Meena S,Table Fan,Home Appliances,West,3,2900,1850,0.0,UPI
+ORD10543,2025-05-06,C039,Surya P,T-Shirt,Fashion,North,2,900,420,0.0,Credit Card
+ORD10544,2024-03-24,C019,Manoj T,Study Table,Furniture,East,4,9500,6800,0.0,Cash
+ORD10545,2025-11-07,C032,Gayathri R,Table Fan,Home Appliances,Central,3,2900,1850,0.0,Cash
+ORD10546,2025-01-25,C024,Aarthi M,Study Table,Furniture,West,3,9500,6800,0.0,UPI
+ORD10547,2025-04-21,C029,Mohan V,Running Shoes,Fashion,East,3,3200,1900,0.0,Net Banking
+ORD10548,2025-12-14,C010,Meena S,Smartphone,Electronics,East,1,24000,18500,0.0,Net Banking
+ORD10549,2024-08-20,C038,Yamini R,Electric Kettle,Home Appliances,West,5,1700,980,0.0,Net Banking
+ORD10550,2025-12-04,C035,Senthil K,Electric Kettle,Home Appliances,South,4,1700,980,0.15,Cash
+ORD10551,2025-02-08,C006,Anitha P,T-Shirt,Fashion,Central,1,900,420,0.15,Net Banking
+ORD10552,2025-04-04,C008,Sneha R,Office Chair,Furniture,South,2,6500,4300,0.0,Credit Card
+ORD10553,2025-03-09,C003,Karthik R,Office Chair,Furniture,West,1,6500,4300,0.2,Credit Card
+ORD10554,2024-09-21,C039,Surya P,Office Chair,Furniture,North,3,6500,4300,0.2,UPI
+ORD10555,2025-02-10,C036,Shalini V,Mixer Grinder,Home Appliances,East,5,4600,3200,0.05,Net Banking
+ORD10556,2025-12-18,C001,Arun Kumar,Air Fryer,Home Appliances,Central,5,8500,6100,0.15,Cash
+ORD10557,2024-06-02,C027,Bala R,Smartwatch,Electronics,Central,2,4800,3100,0.15,Net Banking
+ORD10558,2025-07-30,C007,Vijay K,Smartwatch,Electronics,Central,1,4800,3100,0.05,Debit Card
+ORD10559,2025-01-27,C017,Hari K,Electric Kettle,Home Appliances,Central,4,1700,980,0.15,Cash
+ORD10560,2024-10-09,C012,Lakshmi K,Smartphone,Electronics,Central,4,24000,18500,0.0,Net Banking
+ORD10561,2025-02-09,C003,Karthik R,Mixer Grinder,Home Appliances,South,3,4600,3200,0.2,UPI
+ORD10562,2025-01-16,C018,Swathi N,Table Fan,Home Appliances,East,1,2900,1850,0.05,Debit Card
+ORD10563,2025-12-13,C032,Gayathri R,Running Shoes,Fashion,South,1,3200,1900,0.0,Debit Card
+ORD10564,2024-10-02,C021,Prakash V,Air Fryer,Home Appliances,North,4,8500,6100,0.15,Credit Card
+ORD10565,2025-02-20,C014,Keerthana R,Air Fryer,Home Appliances,East,4,8500,6100,0.15,UPI
+ORD10566,2024-11-14,C005,Rahul N,Study Table,Furniture,South,5,9500,6800,0.1,Net Banking
+ORD10567,2024-07-16,C012,Lakshmi K,Laptop,Electronics,South,2,52000,41000,0.0,UPI
+ORD10568,2025-01-04,C004,Divya M,Air Fryer,Home Appliances,East,2,8500,6100,0.05,Cash
+ORD10569,2025-11-28,C008,Sneha R,Mixer Grinder,Home Appliances,East,1,4600,3200,0.0,Cash
+ORD10570,2025-04-30,C012,Lakshmi K,Air Fryer,Home Appliances,East,5,8500,6100,0.15,Debit Card
+ORD10571,2025-12-06,C017,Hari K,Study Table,Furniture,North,1,9500,6800,0.05,Cash
+ORD10572,2025-08-08,C011,Ajay V,Smartphone,Electronics,South,2,24000,18500,0.0,Credit Card
+ORD10573,2025-06-09,C027,Bala R,Running Shoes,Fashion,North,1,3200,1900,0.2,Cash
+ORD10574,2025-09-07,C012,Lakshmi K,Office Chair,Furniture,East,1,6500,4300,0.0,Net Banking
+ORD10575,2025-03-09,C018,Swathi N,T-Shirt,Fashion,West,4,900,420,0.05,Debit Card
+ORD10576,2024-11-05,C030,Revathi K,Bookshelf,Furniture,West,5,5200,3300,0.15,Net Banking
+ORD10577,2025-06-07,C001,Arun Kumar,Smartwatch,Electronics,Central,3,4800,3100,0.15,Net Banking
+ORD10578,2025-12-01,C020,Nisha A,T-Shirt,Fashion,North,1,900,420,0.1,Debit Card
+ORD10579,2024-10-10,C021,Prakash V,Running Shoes,Fashion,East,3,3200,1900,0.2,Credit Card
+ORD10580,2024-09-03,C034,Ramya M,Office Chair,Furniture,West,1,6500,4300,0.15,Debit Card
+ORD10581,2025-11-02,C002,Priya S,Office Chair,Furniture,East,4,6500,4300,0.05,Cash
+ORD10582,2024-02-06,C025,Gokul S,Mixer Grinder,Home Appliances,Central,5,4600,3200,0.2,Credit Card
+ORD10583,2025-12-03,C015,Ravi P,Backpack,Fashion,West,5,1800,950,0.2,Debit Card
+ORD10584,2025-11-04,C011,Ajay V,T-Shirt,Fashion,East,5,900,420,0.0,UPI
+ORD10585,2024-09-21,C009,Suresh B,Table Fan,Home Appliances,East,5,2900,1850,0.0,UPI
+ORD10586,2024-08-16,C023,Sanjay K,Sofa,Furniture,East,3,26000,19000,0.1,Debit Card
+ORD10587,2024-10-28,C038,Yamini R,Running Shoes,Fashion,West,4,3200,1900,0.0,UPI
+ORD10588,2024-07-18,C031,Dinesh S,Headphones,Electronics,West,5,2200,1200,0.0,Net Banking
+ORD10589,2024-02-25,C027,Bala R,T-Shirt,Fashion,South,2,900,420,0.0,Debit Card
+ORD10590,2025-04-13,C037,Vignesh S,Electric Kettle,Home Appliances,South,2,1700,980,0.05,UPI
+ORD10591,2025-10-08,C022,Pooja R,Table Fan,Home Appliances,North,2,2900,1850,0.05,UPI
+ORD10592,2024-08-02,C018,Swathi N,Air Fryer,Home Appliances,South,2,8500,6100,0.15,Cash
+ORD10593,2025-09-21,C009,Suresh B,Headphones,Electronics,West,4,2200,1200,0.2,Cash
+ORD10594,2025-01-27,C031,Dinesh S,Electric Kettle,Home Appliances,Central,1,1700,980,0.0,Credit Card
+ORD10595,2024-11-25,C001,Arun Kumar,Jacket,Fashion,North,5,2800,1600,0.0,UPI
+ORD10596,2025-12-11,C015,Ravi P,Sofa,Furniture,South,3,26000,19000,0.05,UPI
+ORD10597,2025-08-25,C033,Ashwin P,Mixer Grinder,Home Appliances,North,3,4600,3200,0.0,UPI
+ORD10598,2025-04-11,C019,Manoj T,T-Shirt,Fashion,Central,5,900,420,0.15,Debit Card
+ORD10599,2024-12-16,C009,Suresh B,Electric Kettle,Home Appliances,South,4,1700,980,0.05,Credit Card
+ORD10600,2024-08-21,C002,Priya S,Mixer Grinder,Home Appliances,South,2,4600,3200,0.2,Credit Card
+ORD10601,2025-05-31,C038,Yamini R,Laptop,Electronics,East,2,52000,41000,0.0,UPI
+ORD10602,2025-07-01,C017,Hari K,Mixer Grinder,Home Appliances,Central,5,4600,3200,0.0,UPI
+ORD10603,2024-02-19,C002,Priya S,Smartwatch,Electronics,West,1,4800,3100,0.1,Cash
+ORD10604,2024-09-15,C036,Shalini V,Smartwatch,Electronics,South,4,4800,3100,0.2,Credit Card
+ORD10605,2025-03-06,C020,Nisha A,Laptop,Electronics,Central,1,52000,41000,0.2,Debit Card
+ORD10606,2024-04-17,C027,Bala R,Office Chair,Furniture,Central,5,6500,4300,0.2,UPI
+ORD10607,2024-04-18,C008,Sneha R,T-Shirt,Fashion,Central,4,900,420,0.0,Credit Card
+ORD10608,2024-07-25,C034,Ramya M,Running Shoes,Fashion,West,3,3200,1900,0.2,Debit Card
+ORD10609,2025-07-15,C003,Karthik R,Study Table,Furniture,West,4,9500,6800,0.0,Debit Card
+ORD10610,2024-01-14,C001,Arun Kumar,Sofa,Furniture,Central,1,26000,19000,0.0,Cash
+ORD10611,2025-06-07,C006,Anitha P,Office Chair,Furniture,North,1,6500,4300,0.2,Debit Card
+ORD10612,2024-10-30,C030,Revathi K,Sofa,Furniture,North,3,26000,19000,0.1,UPI
+ORD10613,2024-10-24,C003,Karthik R,Study Table,Furniture,East,3,9500,6800,0.2,Cash
+ORD10614,2024-02-16,C007,Vijay K,Smartwatch,Electronics,South,1,4800,3100,0.0,Debit Card
+ORD10615,2025-09-28,C029,Mohan V,Jacket,Fashion,North,3,2800,1600,0.2,Debit Card
+ORD10616,2024-04-26,C012,Lakshmi K,Backpack,Fashion,West,4,1800,950,0.1,Debit Card
+ORD10617,2025-03-07,C031,Dinesh S,Mixer Grinder,Home Appliances,South,2,4600,3200,0.0,UPI
+ORD10618,2025-03-02,C007,Vijay K,Study Table,Furniture,Central,5,9500,6800,0.1,Cash
+ORD10619,2025-01-23,C040,Hema K,Study Table,Furniture,North,3,9500,6800,0.15,Credit Card
+ORD10620,2024-04-25,C032,Gayathri R,Table Fan,Home Appliances,North,4,2900,1850,0.1,UPI
+ORD10621,2024-01-13,C021,Prakash V,Running Shoes,Fashion,Central,5,3200,1900,0.2,Net Banking
+ORD10622,2025-06-15,C022,Pooja R,Sofa,Furniture,Central,5,26000,19000,0.2,UPI
+ORD10623,2025-05-08,C016,Deepa S,Electric Kettle,Home Appliances,West,3,1700,980,0.2,Credit Card
+ORD10624,2025-10-20,C001,Arun Kumar,Smartphone,Electronics,West,2,24000,18500,0.15,Cash
+ORD10625,2025-05-18,C005,Rahul N,Study Table,Furniture,East,3,9500,6800,0.0,Debit Card
+ORD10626,2024-08-16,C033,Ashwin P,Smartphone,Electronics,West,5,24000,18500,0.2,Cash
+ORD10627,2025-04-15,C006,Anitha P,Sofa,Furniture,West,4,26000,19000,0.15,UPI
+ORD10628,2024-11-19,C029,Mohan V,Table Fan,Home Appliances,North,1,2900,1850,0.1,UPI
+ORD10629,2024-02-06,C027,Bala R,Mixer Grinder,Home Appliances,North,5,4600,3200,0.15,UPI
+ORD10630,2025-07-29,C033,Ashwin P,T-Shirt,Fashion,West,2,900,420,0.2,Debit Card
+ORD10631,2024-08-16,C004,Divya M,Jacket,Fashion,Central,4,2800,1600,0.05,Net Banking
+ORD10632,2025-04-08,C024,Aarthi M,Table Fan,Home Appliances,South,1,2900,1850,0.0,UPI
+ORD10633,2025-10-10,C023,Sanjay K,Backpack,Fashion,Central,3,1800,950,0.15,Debit Card
+ORD10634,2024-06-17,C003,Karthik R,Smartwatch,Electronics,West,4,4800,3100,0.0,UPI
+ORD10635,2024-07-19,C040,Hema K,Running Shoes,Fashion,West,2,3200,1900,0.0,Credit Card
+ORD10636,2024-12-12,C013,Naveen M,Air Fryer,Home Appliances,North,1,8500,6100,0.1,Net Banking
+ORD10637,2025-04-13,C029,Mohan V,Smartwatch,Electronics,South,5,4800,3100,0.15,Cash
+ORD10638,2024-02-19,C034,Ramya M,Laptop,Electronics,Central,5,52000,41000,0.1,Cash
+ORD10639,2024-06-26,C038,Yamini R,Study Table,Furniture,West,2,9500,6800,0.0,Net Banking
+ORD10640,2025-01-28,C033,Ashwin P,Backpack,Fashion,South,4,1800,950,0.15,Debit Card
+ORD10641,2024-10-28,C022,Pooja R,Mixer Grinder,Home Appliances,South,4,4600,3200,0.0,Cash
+ORD10642,2024-11-17,C036,Shalini V,T-Shirt,Fashion,South,5,900,420,0.2,Credit Card
+ORD10643,2024-10-24,C040,Hema K,Bookshelf,Furniture,South,3,5200,3300,0.2,Credit Card
+ORD10644,2024-12-26,C008,Sneha R,Backpack,Fashion,Central,5,1800,950,0.1,Net Banking
+ORD10645,2024-10-19,C035,Senthil K,Electric Kettle,Home Appliances,Central,4,1700,980,0.0,UPI
+ORD10646,2024-05-28,C025,Gokul S,Laptop,Electronics,North,1,52000,41000,0.2,Credit Card
+ORD10647,2024-10-20,C011,Ajay V,Running Shoes,Fashion,North,3,3200,1900,0.0,Debit Card
+ORD10648,2024-02-03,C035,Senthil K,Bookshelf,Furniture,North,3,5200,3300,0.1,Net Banking
+ORD10649,2025-02-02,C036,Shalini V,Sofa,Furniture,East,2,26000,19000,0.15,UPI
+ORD10650,2025-03-02,C025,Gokul S,Mixer Grinder,Home Appliances,North,3,4600,3200,0.15,UPI
+ORD10651,2025-09-27,C013,Naveen M,Running Shoes,Fashion,East,4,3200,1900,0.0,Net Banking
+ORD10652,2024-10-28,C013,Naveen M,Bookshelf,Furniture,North,4,5200,3300,0.0,Credit Card
+ORD10653,2024-05-02,C033,Ashwin P,Study Table,Furniture,West,4,9500,6800,0.0,Debit Card
+ORD10654,2024-06-13,C009,Suresh B,Running Shoes,Fashion,North,5,3200,1900,0.05,Debit Card
+ORD10655,2024-02-10,C010,Meena S,Air Fryer,Home Appliances,Central,2,8500,6100,0.05,UPI
+ORD10656,2025-08-09,C032,Gayathri R,T-Shirt,Fashion,North,5,900,420,0.05,Debit Card
+ORD10657,2025-06-17,C012,Lakshmi K,Sofa,Furniture,South,1,26000,19000,0.15,Cash
+ORD10658,2024-12-23,C006,Anitha P,Mixer Grinder,Home Appliances,East,2,4600,3200,0.0,Debit Card
+ORD10659,2024-08-11,C019,Manoj T,Jacket,Fashion,West,5,2800,1600,0.15,Net Banking
+ORD10660,2025-11-15,C008,Sneha R,Laptop,Electronics,South,3,52000,41000,0.1,Net Banking
+ORD10661,2025-11-29,C003,Karthik R,Sofa,Furniture,North,3,26000,19000,0.1,Cash
+ORD10662,2024-10-16,C035,Senthil K,Running Shoes,Fashion,East,1,3200,1900,0.15,Net Banking
+ORD10663,2024-02-14,C032,Gayathri R,Air Fryer,Home Appliances,South,3,8500,6100,0.2,Debit Card
+ORD10664,2024-06-20,C007,Vijay K,Headphones,Electronics,North,5,2200,1200,0.15,UPI
+ORD10665,2025-12-02,C014,Keerthana R,Bookshelf,Furniture,South,4,5200,3300,0.0,Net Banking
+ORD10666,2025-12-03,C005,Rahul N,Electric Kettle,Home Appliances,West,2,1700,980,0.0,Debit Card
+ORD10667,2024-03-16,C006,Anitha P,Smartphone,Electronics,East,1,24000,18500,0.0,Net Banking
+ORD10668,2024-08-21,C037,Vignesh S,Headphones,Electronics,West,3,2200,1200,0.1,Cash
+ORD10669,2024-11-19,C028,Kavya N,Mixer Grinder,Home Appliances,North,1,4600,3200,0.1,Net Banking
+ORD10670,2024-03-05,C040,Hema K,Laptop,Electronics,North,5,52000,41000,0.0,Debit Card
+ORD10671,2025-12-03,C019,Manoj T,Smartwatch,Electronics,North,3,4800,3100,0.15,Debit Card
+ORD10672,2025-02-08,C025,Gokul S,Air Fryer,Home Appliances,South,1,8500,6100,0.1,Net Banking
+ORD10673,2025-02-04,C009,Suresh B,Sofa,Furniture,South,5,26000,19000,0.05,Debit Card
+ORD10674,2025-07-20,C001,Arun Kumar,Jacket,Fashion,North,5,2800,1600,0.0,UPI
+ORD10675,2025-09-02,C037,Vignesh S,Laptop,Electronics,Central,4,52000,41000,0.15,UPI
+ORD10676,2024-12-18,C014,Keerthana R,T-Shirt,Fashion,Central,2,900,420,0.1,Credit Card
+ORD10677,2024-08-14,C012,Lakshmi K,Study Table,Furniture,South,5,9500,6800,0.05,UPI
+ORD10678,2024-02-25,C037,Vignesh S,Study Table,Furniture,Central,5,9500,6800,0.1,UPI
+ORD10679,2024-09-13,C005,Rahul N,T-Shirt,Fashion,Central,1,900,420,0.0,Cash
+ORD10680,2024-05-11,C023,Sanjay K,Backpack,Fashion,East,2,1800,950,0.0,Net Banking
+ORD10681,2024-11-21,C013,Naveen M,Headphones,Electronics,East,4,2200,1200,0.1,Net Banking
+ORD10682,2024-06-05,C038,Yamini R,T-Shirt,Fashion,East,5,900,420,0.15,Debit Card
+ORD10683,2024-01-05,C011,Ajay V,Electric Kettle,Home Appliances,South,3,1700,980,0.0,Cash
+ORD10684,2024-05-17,C024,Aarthi M,Running Shoes,Fashion,West,3,3200,1900,0.1,Cash
+ORD10685,2025-05-13,C020,Nisha A,Jacket,Fashion,South,5,2800,1600,0.0,Net Banking
+ORD10686,2024-05-23,C018,Swathi N,Headphones,Electronics,East,5,2200,1200,0.0,UPI
+ORD10687,2025-06-03,C002,Priya S,Headphones,Electronics,Central,1,2200,1200,0.15,Cash
+ORD10688,2025-07-18,C003,Karthik R,Bookshelf,Furniture,Central,3,5200,3300,0.15,Cash
+ORD10689,2025-02-05,C024,Aarthi M,Office Chair,Furniture,East,2,6500,4300,0.15,Credit Card
+ORD10690,2025-06-06,C033,Ashwin P,Air Fryer,Home Appliances,East,1,8500,6100,0.1,Net Banking
+ORD10691,2025-09-20,C016,Deepa S,Laptop,Electronics,South,2,52000,41000,0.15,Cash
+ORD10692,2025-08-02,C012,Lakshmi K,Study Table,Furniture,South,5,9500,6800,0.2,Cash
+ORD10693,2024-08-12,C003,Karthik R,Jacket,Fashion,North,4,2800,1600,0.0,Debit Card
+ORD10694,2024-02-13,C015,Ravi P,Jacket,Fashion,East,2,2800,1600,0.15,Cash
+ORD10695,2024-02-17,C030,Revathi K,Table Fan,Home Appliances,East,1,2900,1850,0.2,UPI
+ORD10696,2025-08-15,C017,Hari K,Running Shoes,Fashion,South,5,3200,1900,0.15,Cash
+ORD10697,2025-08-24,C024,Aarthi M,Mixer Grinder,Home Appliances,East,1,4600,3200,0.15,Cash
+ORD10698,2025-02-19,C034,Ramya M,Sofa,Furniture,West,3,26000,19000,0.05,Cash
+ORD10699,2024-05-22,C033,Ashwin P,Laptop,Electronics,South,4,52000,41000,0.0,UPI
+ORD10700,2024-06-02,C014,Keerthana R,Running Shoes,Fashion,East,2,3200,1900,0.0,Net Banking
+ORD10701,2025-02-28,C015,Ravi P,Smartwatch,Electronics,North,3,4800,3100,0.2,Cash
+ORD10702,2024-08-03,C031,Dinesh S,Table Fan,Home Appliances,West,5,2900,1850,0.0,UPI
+ORD10703,2024-05-10,C003,Karthik R,Sofa,Furniture,South,5,26000,19000,0.15,Credit Card
+ORD10704,2024-05-30,C037,Vignesh S,Smartphone,Electronics,East,1,24000,18500,0.0,Credit Card
+ORD10705,2025-07-31,C039,Surya P,Mixer Grinder,Home Appliances,East,1,4600,3200,0.2,UPI
+ORD10706,2025-09-13,C029,Mohan V,Bookshelf,Furniture,South,4,5200,3300,0.1,Credit Card
+ORD10707,2024-05-26,C039,Surya P,Electric Kettle,Home Appliances,Central,5,1700,980,0.0,Net Banking
+ORD10708,2025-12-03,C011,Ajay V,Running Shoes,Fashion,Central,3,3200,1900,0.1,Net Banking
+ORD10709,2025-01-22,C015,Ravi P,Headphones,Electronics,North,4,2200,1200,0.0,UPI
+ORD10710,2025-05-31,C034,Ramya M,Bookshelf,Furniture,Central,4,5200,3300,0.0,UPI
+ORD10711,2025-09-21,C031,Dinesh S,Study Table,Furniture,Central,5,9500,6800,0.0,Net Banking
+ORD10712,2025-05-08,C006,Anitha P,Smartwatch,Electronics,Central,2,4800,3100,0.15,UPI
+ORD10713,2025-03-06,C034,Ramya M,Electric Kettle,Home Appliances,Central,3,1700,980,0.0,Cash
+ORD10714,2025-01-25,C031,Dinesh S,Sofa,Furniture,Central,3,26000,19000,0.15,UPI
+ORD10715,2024-09-17,C009,Suresh B,Electric Kettle,Home Appliances,North,4,1700,980,0.0,Debit Card
+ORD10716,2024-07-12,C017,Hari K,Electric Kettle,Home Appliances,North,1,1700,980,0.2,Net Banking
+ORD10717,2024-01-08,C034,Ramya M,Smartwatch,Electronics,South,4,4800,3100,0.2,Debit Card
+ORD10718,2024-04-19,C024,Aarthi M,Electric Kettle,Home Appliances,Central,2,1700,980,0.1,Debit Card
+ORD10719,2025-03-09,C035,Senthil K,Running Shoes,Fashion,Central,5,3200,1900,0.05,Debit Card
+ORD10720,2025-02-27,C014,Keerthana R,Mixer Grinder,Home Appliances,West,5,4600,3200,0.15,Credit Card
+ORD10721,2025-07-22,C036,Shalini V,Jacket,Fashion,East,4,2800,1600,0.05,Net Banking
+ORD10722,2024-05-21,C026,Janani P,Jacket,Fashion,South,1,2800,1600,0.2,Cash
+ORD10723,2024-08-07,C007,Vijay K,Study Table,Furniture,East,5,9500,6800,0.1,Net Banking
+ORD10724,2025-02-02,C011,Ajay V,Smartphone,Electronics,South,1,24000,18500,0.0,Cash
+ORD10725,2024-03-06,C006,Anitha P,Electric Kettle,Home Appliances,East,3,1700,980,0.0,UPI
+ORD10726,2025-02-14,C025,Gokul S,Smartphone,Electronics,Central,5,24000,18500,0.2,Debit Card
+ORD10727,2025-10-17,C012,Lakshmi K,Smartphone,Electronics,North,4,24000,18500,0.1,Credit Card
+ORD10728,2024-02-04,C013,Naveen M,T-Shirt,Fashion,Central,5,900,420,0.15,Credit Card
+ORD10729,2025-01-03,C003,Karthik R,Study Table,Furniture,North,2,9500,6800,0.2,Credit Card
+ORD10730,2025-02-13,C018,Swathi N,Headphones,Electronics,West,3,2200,1200,0.2,Cash
+ORD10731,2024-01-16,C034,Ramya M,Bookshelf,Furniture,Central,1,5200,3300,0.0,Debit Card
+ORD10732,2024-10-10,C023,Sanjay K,Jacket,Fashion,South,2,2800,1600,0.15,Cash
+ORD10733,2024-01-05,C037,Vignesh S,Mixer Grinder,Home Appliances,West,3,4600,3200,0.0,Net Banking
+ORD10734,2024-03-15,C036,Shalini V,Smartwatch,Electronics,East,5,4800,3100,0.05,UPI
+ORD10735,2025-08-11,C035,Senthil K,Running Shoes,Fashion,West,3,3200,1900,0.2,Cash
+ORD10736,2024-12-13,C016,Deepa S,Table Fan,Home Appliances,West,4,2900,1850,0.2,Net Banking
+ORD10737,2024-04-29,C031,Dinesh S,Laptop,Electronics,West,3,52000,41000,0.0,Credit Card
+ORD10738,2025-02-26,C021,Prakash V,Sofa,Furniture,Central,3,26000,19000,0.15,UPI
+ORD10739,2024-10-21,C016,Deepa S,Running Shoes,Fashion,East,1,3200,1900,0.1,UPI
+ORD10740,2024-11-17,C031,Dinesh S,Study Table,Furniture,Central,3,9500,6800,0.0,Debit Card
+ORD10741,2025-05-25,C013,Naveen M,Study Table,Furniture,South,2,9500,6800,0.0,Debit Card
+ORD10742,2024-07-26,C015,Ravi P,Bookshelf,Furniture,East,2,5200,3300,0.15,Credit Card
+ORD10743,2024-03-21,C008,Sneha R,Smartwatch,Electronics,North,4,4800,3100,0.15,Net Banking
+ORD10744,2025-01-15,C031,Dinesh S,Smartphone,Electronics,West,5,24000,18500,0.05,Net Banking
+ORD10745,2024-07-06,C032,Gayathri R,Running Shoes,Fashion,West,5,3200,1900,0.05,Credit Card
+ORD10746,2025-06-22,C004,Divya M,Office Chair,Furniture,Central,4,6500,4300,0.1,UPI
+ORD10747,2025-12-03,C026,Janani P,Jacket,Fashion,North,2,2800,1600,0.1,Net Banking
+ORD10748,2025-12-06,C021,Prakash V,Air Fryer,Home Appliances,South,1,8500,6100,0.0,Cash
+ORD10749,2025-01-05,C021,Prakash V,Smartwatch,Electronics,South,5,4800,3100,0.05,Net Banking
+ORD10750,2024-10-02,C016,Deepa S,Running Shoes,Fashion,East,4,3200,1900,0.15,Debit Card
+ORD10751,2025-03-10,C032,Gayathri R,Study Table,Furniture,East,2,9500,6800,0.1,Debit Card
+ORD10752,2025-04-06,C018,Swathi N,Mixer Grinder,Home Appliances,South,2,4600,3200,0.15,Net Banking
+ORD10753,2024-10-03,C007,Vijay K,Sofa,Furniture,West,2,26000,19000,0.15,Cash
+ORD10754,2024-06-02,C010,Meena S,Bookshelf,Furniture,South,4,5200,3300,0.0,Cash
+ORD10755,2025-10-07,C009,Suresh B,Table Fan,Home Appliances,East,5,2900,1850,0.15,Cash
+ORD10756,2025-07-29,C017,Hari K,T-Shirt,Fashion,West,5,900,420,0.0,UPI
+ORD10757,2024-08-08,C004,Divya M,Study Table,Furniture,North,3,9500,6800,0.1,Cash
+ORD10758,2025-01-04,C017,Hari K,Backpack,Fashion,Central,3,1800,950,0.15,Debit Card
+ORD10759,2025-02-25,C002,Priya S,Jacket,Fashion,Central,1,2800,1600,0.05,Credit Card
+ORD10760,2024-12-29,C019,Manoj T,Study Table,Furniture,Central,3,9500,6800,0.2,Cash
+ORD10761,2025-01-25,C006,Anitha P,Air Fryer,Home Appliances,West,5,8500,6100,0.05,Credit Card
+ORD10762,2025-03-07,C022,Pooja R,Study Table,Furniture,West,5,9500,6800,0.15,UPI
+ORD10763,2024-12-17,C011,Ajay V,Headphones,Electronics,East,2,2200,1200,0.05,Debit Card
+ORD10764,2025-10-22,C039,Surya P,Running Shoes,Fashion,West,4,3200,1900,0.05,Debit Card
+ORD10765,2024-06-20,C027,Bala R,Air Fryer,Home Appliances,South,2,8500,6100,0.0,Credit Card
+ORD10766,2024-08-03,C006,Anitha P,Running Shoes,Fashion,North,2,3200,1900,0.1,UPI
+ORD10767,2025-07-15,C031,Dinesh S,Headphones,Electronics,West,1,2200,1200,0.0,Net Banking
+ORD10768,2024-09-25,C007,Vijay K,Headphones,Electronics,North,5,2200,1200,0.0,Cash
+ORD10769,2024-09-10,C015,Ravi P,T-Shirt,Fashion,South,3,900,420,0.1,Credit Card
+ORD10770,2024-02-05,C002,Priya S,Study Table,Furniture,West,3,9500,6800,0.05,Cash
+ORD10771,2025-03-31,C036,Shalini V,Running Shoes,Fashion,Central,2,3200,1900,0.2,Credit Card
+ORD10772,2025-03-21,C037,Vignesh S,Air Fryer,Home Appliances,Central,5,8500,6100,0.2,Debit Card
+ORD10773,2025-07-06,C031,Dinesh S,Jacket,Fashion,West,2,2800,1600,0.0,Debit Card
+ORD10774,2024-09-23,C027,Bala R,Jacket,Fashion,North,2,2800,1600,0.05,UPI
+ORD10775,2024-10-20,C023,Sanjay K,Office Chair,Furniture,North,4,6500,4300,0.15,Cash
+ORD10776,2024-01-10,C020,Nisha A,Table Fan,Home Appliances,Central,4,2900,1850,0.05,Credit Card
+ORD10777,2025-01-17,C036,Shalini V,Laptop,Electronics,Central,2,52000,41000,0.1,Cash
+ORD10778,2024-06-16,C016,Deepa S,Mixer Grinder,Home Appliances,South,4,4600,3200,0.1,Debit Card
+ORD10779,2025-10-02,C028,Kavya N,Headphones,Electronics,Central,2,2200,1200,0.15,Debit Card
+ORD10780,2024-10-02,C035,Senthil K,T-Shirt,Fashion,North,4,900,420,0.0,Credit Card
+ORD10781,2024-04-23,C019,Manoj T,Office Chair,Furniture,West,4,6500,4300,0.15,Debit Card
+ORD10782,2024-11-24,C013,Naveen M,Table Fan,Home Appliances,North,1,2900,1850,0.0,Net Banking
+ORD10783,2024-04-14,C012,Lakshmi K,Laptop,Electronics,South,3,52000,41000,0.05,Cash
+ORD10784,2024-04-02,C015,Ravi P,Laptop,Electronics,West,2,52000,41000,0.0,Credit Card
+ORD10785,2024-11-15,C027,Bala R,Backpack,Fashion,West,4,1800,950,0.05,UPI
+ORD10786,2024-05-29,C006,Anitha P,Backpack,Fashion,West,1,1800,950,0.05,UPI
+ORD10787,2024-07-15,C012,Lakshmi K,Table Fan,Home Appliances,North,3,2900,1850,0.1,UPI
+ORD10788,2025-03-29,C025,Gokul S,Sofa,Furniture,North,2,26000,19000,0.2,Credit Card
+ORD10789,2025-06-17,C007,Vijay K,Air Fryer,Home Appliances,West,2,8500,6100,0.1,Debit Card
+ORD10790,2025-10-06,C011,Ajay V,Backpack,Fashion,Central,1,1800,950,0.2,Net Banking
+ORD10791,2025-05-07,C017,Hari K,Smartwatch,Electronics,East,3,4800,3100,0.0,UPI
+ORD10792,2024-08-29,C008,Sneha R,Bookshelf,Furniture,North,4,5200,3300,0.05,Credit Card
+ORD10793,2024-05-02,C038,Yamini R,Running Shoes,Fashion,North,4,3200,1900,0.0,UPI
+ORD10794,2024-06-07,C039,Surya P,Table Fan,Home Appliances,South,3,2900,1850,0.0,Credit Card
+ORD10795,2025-12-03,C006,Anitha P,Table Fan,Home Appliances,North,5,2900,1850,0.05,UPI
+ORD10796,2025-12-19,C010,Meena S,Jacket,Fashion,South,5,2800,1600,0.0,Cash
+ORD10797,2025-07-25,C021,Prakash V,Sofa,Furniture,South,3,26000,19000,0.1,UPI
+ORD10798,2024-05-17,C023,Sanjay K,Mixer Grinder,Home Appliances,West,3,4600,3200,0.0,Cash
+ORD10799,2025-12-14,C035,Senthil K,T-Shirt,Fashion,Central,4,900,420,0.0,Credit Card
+ORD10800,2025-04-24,C021,Prakash V,Jacket,Fashion,Central,3,2800,1600,0.15,Credit Card
+ORD10801,2024-06-07,C034,Ramya M,Headphones,Electronics,East,4,2200,1200,0.05,Net Banking
+ORD10802,2024-01-01,C030,Revathi K,Jacket,Fashion,South,5,2800,1600,0.1,UPI
+ORD10803,2024-09-01,C040,Hema K,Jacket,Fashion,North,3,2800,1600,0.2,Net Banking
+ORD10804,2025-06-20,C013,Naveen M,Mixer Grinder,Home Appliances,South,4,4600,3200,0.15,Net Banking
+ORD10805,2025-02-23,C021,Prakash V,T-Shirt,Fashion,North,3,900,420,0.0,Net Banking
+ORD10806,2024-05-12,C003,Karthik R,Headphones,Electronics,South,2,2200,1200,0.0,UPI
+ORD10807,2024-04-11,C013,Naveen M,Table Fan,Home Appliances,West,1,2900,1850,0.15,Cash
+ORD10808,2025-01-10,C004,Divya M,Running Shoes,Fashion,North,2,3200,1900,0.15,UPI
+ORD10809,2024-03-22,C032,Gayathri R,Bookshelf,Furniture,North,4,5200,3300,0.2,Debit Card
+ORD10810,2025-12-26,C024,Aarthi M,Electric Kettle,Home Appliances,East,1,1700,980,0.15,Net Banking
+ORD10811,2024-11-07,C005,Rahul N,Smartphone,Electronics,Central,1,24000,18500,0.0,UPI
+ORD10812,2025-06-28,C015,Ravi P,Smartwatch,Electronics,South,4,4800,3100,0.0,Net Banking
+ORD10813,2025-10-02,C037,Vignesh S,Sofa,Furniture,Central,2,26000,19000,0.15,Cash
+ORD10814,2025-01-01,C037,Vignesh S,Smartwatch,Electronics,West,4,4800,3100,0.2,UPI
+ORD10815,2025-07-17,C012,Lakshmi K,Study Table,Furniture,East,4,9500,6800,0.15,Credit Card
+ORD10816,2024-11-18,C023,Sanjay K,Air Fryer,Home Appliances,East,5,8500,6100,0.05,Cash
+ORD10817,2025-09-15,C021,Prakash V,Electric Kettle,Home Appliances,Central,2,1700,980,0.15,Credit Card
+ORD10818,2024-09-17,C036,Shalini V,Mixer Grinder,Home Appliances,West,3,4600,3200,0.1,Cash
+ORD10819,2024-10-18,C003,Karthik R,Laptop,Electronics,Central,5,52000,41000,0.0,Credit Card
+ORD10820,2024-11-03,C001,Arun Kumar,T-Shirt,Fashion,East,2,900,420,0.0,UPI
+ORD10821,2025-06-07,C036,Shalini V,Running Shoes,Fashion,Central,5,3200,1900,0.15,Credit Card
+ORD10822,2025-04-16,C003,Karthik R,Smartwatch,Electronics,South,3,4800,3100,0.0,Debit Card
+ORD10823,2024-09-12,C038,Yamini R,Jacket,Fashion,East,2,2800,1600,0.05,UPI
+ORD10824,2024-08-10,C037,Vignesh S,Mixer Grinder,Home Appliances,East,1,4600,3200,0.2,Cash
+ORD10825,2025-12-07,C032,Gayathri R,Study Table,Furniture,Central,5,9500,6800,0.0,Debit Card
+ORD10826,2025-01-25,C037,Vignesh S,Smartphone,Electronics,East,1,24000,18500,0.0,Debit Card
+ORD10827,2024-05-03,C027,Bala R,Electric Kettle,Home Appliances,Central,2,1700,980,0.2,UPI
+ORD10828,2024-11-08,C004,Divya M,Mixer Grinder,Home Appliances,East,5,4600,3200,0.0,Net Banking
+ORD10829,2025-05-29,C021,Prakash V,Office Chair,Furniture,North,2,6500,4300,0.0,Cash
+ORD10830,2025-08-12,C039,Surya P,Air Fryer,Home Appliances,South,5,8500,6100,0.0,Cash
+ORD10831,2024-05-31,C026,Janani P,T-Shirt,Fashion,North,2,900,420,0.05,Cash
+ORD10832,2025-02-12,C036,Shalini V,Smartphone,Electronics,West,3,24000,18500,0.0,Net Banking
+ORD10833,2024-05-18,C009,Suresh B,Electric Kettle,Home Appliances,South,4,1700,980,0.15,Cash
+ORD10834,2024-07-19,C037,Vignesh S,Mixer Grinder,Home Appliances,Central,5,4600,3200,0.15,Credit Card
+ORD10835,2024-09-29,C005,Rahul N,Sofa,Furniture,Central,4,26000,19000,0.05,UPI
+ORD10836,2025-03-09,C027,Bala R,Smartwatch,Electronics,South,3,4800,3100,0.05,Debit Card
+ORD10837,2025-11-02,C039,Surya P,Jacket,Fashion,South,1,2800,1600,0.05,Debit Card
+ORD10838,2024-05-29,C040,Hema K,Air Fryer,Home Appliances,South,4,8500,6100,0.0,Credit Card
+ORD10839,2024-03-28,C010,Meena S,Jacket,Fashion,North,1,2800,1600,0.2,Credit Card
+ORD10840,2024-01-15,C019,Manoj T,Office Chair,Furniture,North,3,6500,4300,0.2,Debit Card
+ORD10841,2024-01-24,C031,Dinesh S,Air Fryer,Home Appliances,Central,3,8500,6100,0.0,Credit Card
+ORD10842,2025-06-19,C035,Senthil K,Bookshelf,Furniture,West,3,5200,3300,0.15,Net Banking
+ORD10843,2025-01-20,C002,Priya S,Office Chair,Furniture,Central,5,6500,4300,0.2,UPI
+ORD10844,2024-03-02,C011,Ajay V,Running Shoes,Fashion,Central,3,3200,1900,0.0,Debit Card
+ORD10845,2025-11-01,C030,Revathi K,Smartphone,Electronics,West,1,24000,18500,0.0,Debit Card
+ORD10846,2024-01-20,C007,Vijay K,Jacket,Fashion,West,3,2800,1600,0.2,Credit Card
+ORD10847,2025-12-27,C033,Ashwin P,Mixer Grinder,Home Appliances,West,1,4600,3200,0.05,Net Banking
+ORD10848,2024-07-22,C012,Lakshmi K,Headphones,Electronics,Central,5,2200,1200,0.1,UPI
+ORD10849,2025-06-26,C016,Deepa S,Smartphone,Electronics,West,3,24000,18500,0.05,Cash
+ORD10850,2024-12-21,C002,Priya S,Study Table,Furniture,East,3,9500,6800,0.05,Credit Card
+ORD10851,2025-10-02,C004,Divya M,Running Shoes,Fashion,North,3,3200,1900,0.1,Net Banking
+ORD10852,2024-06-04,C015,Ravi P,Running Shoes,Fashion,South,3,3200,1900,0.1,UPI
+ORD10853,2025-11-25,C034,Ramya M,Mixer Grinder,Home Appliances,South,5,4600,3200,0.2,Cash
+ORD10854,2024-06-05,C037,Vignesh S,Sofa,Furniture,Central,4,26000,19000,0.05,Debit Card
+ORD10855,2024-05-14,C035,Senthil K,Air Fryer,Home Appliances,South,2,8500,6100,0.2,Net Banking
+ORD10856,2024-11-12,C009,Suresh B,Bookshelf,Furniture,West,5,5200,3300,0.0,Credit Card
+ORD10857,2024-03-10,C021,Prakash V,Study Table,Furniture,North,5,9500,6800,0.15,Credit Card
+ORD10858,2024-01-31,C010,Meena S,Backpack,Fashion,West,3,1800,950,0.1,Debit Card
+ORD10859,2024-06-04,C018,Swathi N,Air Fryer,Home Appliances,South,2,8500,6100,0.0,Credit Card
+ORD10860,2025-09-23,C040,Hema K,Laptop,Electronics,Central,3,52000,41000,0.15,Net Banking
+ORD10861,2024-08-25,C039,Surya P,Sofa,Furniture,North,2,26000,19000,0.2,Debit Card
+ORD10862,2024-05-17,C031,Dinesh S,Headphones,Electronics,West,5,2200,1200,0.15,Debit Card
+ORD10863,2025-05-18,C025,Gokul S,Study Table,Furniture,South,4,9500,6800,0.0,Credit Card
+ORD10864,2025-02-22,C003,Karthik R,Sofa,Furniture,West,1,26000,19000,0.05,Credit Card
+ORD10865,2024-03-08,C014,Keerthana R,Bookshelf,Furniture,Central,2,5200,3300,0.1,Cash
+ORD10866,2024-09-09,C030,Revathi K,Backpack,Fashion,North,4,1800,950,0.1,Net Banking
+ORD10867,2025-02-07,C021,Prakash V,Mixer Grinder,Home Appliances,Central,5,4600,3200,0.2,Net Banking
+ORD10868,2024-04-21,C034,Ramya M,Smartphone,Electronics,North,4,24000,18500,0.1,Credit Card
+ORD10869,2025-07-25,C003,Karthik R,Mixer Grinder,Home Appliances,North,4,4600,3200,0.15,Credit Card
+ORD10870,2025-02-11,C029,Mohan V,T-Shirt,Fashion,West,3,900,420,0.05,Credit Card
+ORD10871,2025-09-19,C019,Manoj T,Electric Kettle,Home Appliances,Central,1,1700,980,0.2,Credit Card
+ORD10872,2024-04-02,C029,Mohan V,Air Fryer,Home Appliances,South,5,8500,6100,0.0,Net Banking
+ORD10873,2025-02-27,C026,Janani P,Office Chair,Furniture,North,3,6500,4300,0.1,Credit Card
+ORD10874,2025-12-30,C038,Yamini R,Air Fryer,Home Appliances,North,2,8500,6100,0.1,Debit Card
+ORD10875,2024-05-06,C011,Ajay V,Backpack,Fashion,West,1,1800,950,0.0,Debit Card
+ORD10876,2025-12-25,C034,Ramya M,Headphones,Electronics,Central,4,2200,1200,0.2,Net Banking
+ORD10877,2025-07-17,C025,Gokul S,Study Table,Furniture,South,4,9500,6800,0.0,Debit Card
+ORD10878,2024-05-28,C011,Ajay V,Office Chair,Furniture,North,2,6500,4300,0.2,Cash
+ORD10879,2025-04-01,C020,Nisha A,T-Shirt,Fashion,South,3,900,420,0.2,UPI
+ORD10880,2024-01-04,C013,Naveen M,Office Chair,Furniture,North,5,6500,4300,0.05,Cash
+ORD10881,2025-07-10,C032,Gayathri R,Table Fan,Home Appliances,West,1,2900,1850,0.15,Credit Card
+ORD10882,2025-11-06,C038,Yamini R,Bookshelf,Furniture,West,4,5200,3300,0.1,Cash
+ORD10883,2025-09-06,C039,Surya P,Headphones,Electronics,Central,1,2200,1200,0.0,Debit Card
+ORD10884,2024-07-08,C004,Divya M,Bookshelf,Furniture,East,2,5200,3300,0.0,UPI
+ORD10885,2025-11-14,C003,Karthik R,Office Chair,Furniture,East,5,6500,4300,0.15,Debit Card
+ORD10886,2024-04-21,C004,Divya M,Headphones,Electronics,South,4,2200,1200,0.0,Debit Card
+ORD10887,2025-08-15,C030,Revathi K,Study Table,Furniture,North,3,9500,6800,0.0,Debit Card
+ORD10888,2025-01-23,C024,Aarthi M,Backpack,Fashion,Central,1,1800,950,0.1,UPI
+ORD10889,2024-05-17,C031,Dinesh S,T-Shirt,Fashion,East,1,900,420,0.2,Debit Card
+ORD10890,2024-08-02,C034,Ramya M,Electric Kettle,Home Appliances,North,2,1700,980,0.15,UPI
+ORD10891,2025-12-06,C031,Dinesh S,Headphones,Electronics,East,5,2200,1200,0.2,Cash
+ORD10892,2025-06-22,C017,Hari K,Backpack,Fashion,East,5,1800,950,0.15,Credit Card
+ORD10893,2025-10-09,C034,Ramya M,Table Fan,Home Appliances,South,4,2900,1850,0.1,Net Banking
+ORD10894,2024-07-17,C019,Manoj T,Sofa,Furniture,North,1,26000,19000,0.0,Cash
+ORD10895,2025-09-22,C014,Keerthana R,Smartwatch,Electronics,North,4,4800,3100,0.1,Debit Card
+ORD10896,2025-10-14,C036,Shalini V,Jacket,Fashion,South,2,2800,1600,0.0,Debit Card
+ORD10897,2024-11-11,C005,Rahul N,Running Shoes,Fashion,Central,3,3200,1900,0.15,Debit Card
+ORD10898,2025-12-03,C008,Sneha R,Laptop,Electronics,West,3,52000,41000,0.05,Net Banking
+ORD10899,2024-07-17,C012,Lakshmi K,Laptop,Electronics,West,3,52000,41000,0.05,Cash
+ORD10900,2025-05-08,C009,Suresh B,Smartphone,Electronics,West,2,24000,18500,0.2,Net Banking
+ORD10901,2025-02-27,C030,Revathi K,Backpack,Fashion,East,1,1800,950,0.15,Net Banking
+ORD10902,2025-07-02,C036,Shalini V,Backpack,Fashion,Central,1,1800,950,0.0,Debit Card
+ORD10903,2024-06-01,C005,Rahul N,Jacket,Fashion,East,3,2800,1600,0.0,Cash
+ORD10904,2025-09-12,C037,Vignesh S,Study Table,Furniture,Central,4,9500,6800,0.0,UPI
+ORD10905,2025-12-27,C021,Prakash V,T-Shirt,Fashion,West,1,900,420,0.05,UPI
+ORD10906,2025-01-15,C016,Deepa S,Table Fan,Home Appliances,South,4,2900,1850,0.05,Net Banking
+ORD10907,2024-04-24,C012,Lakshmi K,T-Shirt,Fashion,South,3,900,420,0.0,UPI
+ORD10908,2024-01-26,C033,Ashwin P,Air Fryer,Home Appliances,South,4,8500,6100,0.15,Credit Card
+ORD10909,2025-06-20,C031,Dinesh S,Backpack,Fashion,South,3,1800,950,0.05,UPI
+ORD10910,2024-02-07,C014,Keerthana R,Office Chair,Furniture,Central,4,6500,4300,0.1,UPI
+ORD10911,2024-02-15,C020,Nisha A,Laptop,Electronics,East,5,52000,41000,0.0,Cash
+ORD10912,2025-06-17,C007,Vijay K,Smartphone,Electronics,Central,3,24000,18500,0.0,Debit Card
+ORD10913,2024-07-24,C021,Prakash V,Bookshelf,Furniture,East,2,5200,3300,0.05,Net Banking
+ORD10914,2025-11-18,C029,Mohan V,Backpack,Fashion,South,1,1800,950,0.05,Credit Card
+ORD10915,2024-01-16,C008,Sneha R,Running Shoes,Fashion,Central,5,3200,1900,0.15,UPI
+ORD10916,2024-12-24,C035,Senthil K,Bookshelf,Furniture,East,5,5200,3300,0.05,Credit Card
+ORD10917,2024-09-07,C037,Vignesh S,T-Shirt,Fashion,East,2,900,420,0.0,Net Banking
+ORD10918,2025-03-30,C035,Senthil K,Backpack,Fashion,North,1,1800,950,0.0,Cash
+ORD10919,2025-01-27,C007,Vijay K,Smartphone,Electronics,West,1,24000,18500,0.0,Cash
+ORD10920,2025-08-29,C039,Surya P,Study Table,Furniture,East,4,9500,6800,0.15,Debit Card
+ORD10921,2025-12-31,C013,Naveen M,Backpack,Fashion,West,5,1800,950,0.0,Net Banking
+ORD10922,2025-12-16,C006,Anitha P,Office Chair,Furniture,West,4,6500,4300,0.0,Debit Card
+ORD10923,2024-08-25,C031,Dinesh S,Air Fryer,Home Appliances,Central,2,8500,6100,0.0,Debit Card
+ORD10924,2024-07-06,C026,Janani P,Jacket,Fashion,West,3,2800,1600,0.05,Cash
+ORD10925,2025-05-01,C005,Rahul N,Laptop,Electronics,West,1,52000,41000,0.05,Cash
+ORD10926,2024-12-22,C019,Manoj T,Study Table,Furniture,South,5,9500,6800,0.15,Net Banking
+ORD10927,2024-04-19,C026,Janani P,Smartwatch,Electronics,North,3,4800,3100,0.15,Debit Card
+ORD10928,2025-08-27,C026,Janani P,Air Fryer,Home Appliances,Central,4,8500,6100,0.0,Credit Card
+ORD10929,2025-01-28,C031,Dinesh S,Study Table,Furniture,South,1,9500,6800,0.05,Net Banking
+ORD10930,2025-08-03,C028,Kavya N,Electric Kettle,Home Appliances,South,3,1700,980,0.15,Credit Card
+ORD10931,2025-05-13,C037,Vignesh S,Headphones,Electronics,Central,1,2200,1200,0.15,Cash
+ORD10932,2024-04-09,C036,Shalini V,Backpack,Fashion,East,4,1800,950,0.0,Cash
+ORD10933,2024-04-21,C039,Surya P,Headphones,Electronics,East,5,2200,1200,0.1,Cash
+ORD10934,2024-08-10,C006,Anitha P,Smartphone,Electronics,North,2,24000,18500,0.15,Credit Card
+ORD10935,2025-06-28,C029,Mohan V,Office Chair,Furniture,Central,3,6500,4300,0.1,Net Banking
+ORD10936,2024-07-29,C013,Naveen M,Air Fryer,Home Appliances,Central,3,8500,6100,0.05,Debit Card
+ORD10937,2024-04-01,C023,Sanjay K,Electric Kettle,Home Appliances,Central,5,1700,980,0.0,Net Banking
+ORD10938,2024-10-28,C009,Suresh B,Mixer Grinder,Home Appliances,Central,1,4600,3200,0.05,UPI
+ORD10939,2025-01-02,C036,Shalini V,Laptop,Electronics,North,1,52000,41000,0.05,Credit Card
+ORD10940,2025-02-07,C038,Yamini R,Electric Kettle,Home Appliances,West,3,1700,980,0.2,Cash
+ORD10941,2025-07-12,C028,Kavya N,Mixer Grinder,Home Appliances,South,2,4600,3200,0.2,Cash
+ORD10942,2025-07-22,C013,Naveen M,Office Chair,Furniture,West,4,6500,4300,0.05,Credit Card
+ORD10943,2024-05-17,C009,Suresh B,T-Shirt,Fashion,North,1,900,420,0.0,Credit Card
+ORD10944,2024-05-19,C028,Kavya N,Table Fan,Home Appliances,West,1,2900,1850,0.0,Cash
+ORD10945,2024-07-03,C040,Hema K,Electric Kettle,Home Appliances,West,4,1700,980,0.15,Net Banking
+ORD10946,2024-12-29,C025,Gokul S,Air Fryer,Home Appliances,West,2,8500,6100,0.0,Net Banking
+ORD10947,2025-05-25,C037,Vignesh S,Laptop,Electronics,Central,2,52000,41000,0.2,Debit Card
+ORD10948,2025-08-13,C035,Senthil K,Electric Kettle,Home Appliances,North,3,1700,980,0.0,Net Banking
+ORD10949,2024-04-25,C024,Aarthi M,Table Fan,Home Appliances,North,5,2900,1850,0.1,Credit Card
+ORD10950,2025-06-13,C030,Revathi K,Running Shoes,Fashion,Central,1,3200,1900,0.15,UPI
+ORD10951,2025-10-07,C031,Dinesh S,Sofa,Furniture,Central,1,26000,19000,0.2,Net Banking
+ORD10952,2024-02-24,C040,Hema K,T-Shirt,Fashion,North,3,900,420,0.15,Cash
+ORD10953,2025-04-25,C033,Ashwin P,Air Fryer,Home Appliances,East,5,8500,6100,0.2,Cash
+ORD10954,2024-10-23,C019,Manoj T,Jacket,Fashion,Central,2,2800,1600,0.0,Debit Card
+ORD10955,2025-10-06,C004,Divya M,Running Shoes,Fashion,South,4,3200,1900,0.15,Net Banking
+ORD10956,2025-10-01,C019,Manoj T,Smartphone,Electronics,West,1,24000,18500,0.05,UPI
+ORD10957,2024-03-19,C033,Ashwin P,Office Chair,Furniture,South,3,6500,4300,0.05,Net Banking
+ORD10958,2024-09-20,C018,Swathi N,Running Shoes,Fashion,North,1,3200,1900,0.2,Net Banking
+ORD10959,2024-06-03,C038,Yamini R,Study Table,Furniture,South,4,9500,6800,0.05,Debit Card
+ORD10960,2024-07-04,C032,Gayathri R,Sofa,Furniture,East,5,26000,19000,0.0,UPI
+ORD10961,2024-06-06,C039,Surya P,Office Chair,Furniture,West,4,6500,4300,0.1,Credit Card
+ORD10962,2024-08-03,C011,Ajay V,Air Fryer,Home Appliances,East,5,8500,6100,0.2,UPI
+ORD10963,2024-02-23,C008,Sneha R,Running Shoes,Fashion,West,2,3200,1900,0.1,Cash
+ORD10964,2025-06-29,C031,Dinesh S,T-Shirt,Fashion,West,2,900,420,0.1,Cash
+ORD10965,2025-06-27,C010,Meena S,Running Shoes,Fashion,East,4,3200,1900,0.0,Cash
+ORD10966,2025-06-26,C021,Prakash V,Mixer Grinder,Home Appliances,Central,1,4600,3200,0.0,Debit Card
+ORD10967,2025-10-29,C040,Hema K,Electric Kettle,Home Appliances,East,3,1700,980,0.05,Debit Card
+ORD10968,2025-11-01,C017,Hari K,Smartwatch,Electronics,West,5,4800,3100,0.1,Credit Card
+ORD10969,2024-12-11,C034,Ramya M,Bookshelf,Furniture,Central,2,5200,3300,0.05,UPI
+ORD10970,2024-01-13,C005,Rahul N,Laptop,Electronics,Central,4,52000,41000,0.0,UPI
+ORD10971,2024-08-12,C023,Sanjay K,Air Fryer,Home Appliances,South,3,8500,6100,0.05,UPI
+ORD10972,2024-04-04,C040,Hema K,Laptop,Electronics,South,1,52000,41000,0.15,Net Banking
+ORD10973,2024-03-29,C008,Sneha R,Smartwatch,Electronics,West,5,4800,3100,0.0,Net Banking
+ORD10974,2025-12-13,C008,Sneha R,Study Table,Furniture,East,2,9500,6800,0.05,Cash
+ORD10975,2024-10-10,C030,Revathi K,Headphones,Electronics,East,4,2200,1200,0.2,Debit Card
+ORD10976,2024-10-10,C005,Rahul N,Study Table,Furniture,West,1,9500,6800,0.1,Debit Card
+ORD10977,2024-09-28,C017,Hari K,Smartphone,Electronics,North,2,24000,18500,0.1,Cash
+ORD10978,2025-02-06,C040,Hema K,Bookshelf,Furniture,West,2,5200,3300,0.2,UPI
+ORD10979,2025-03-17,C035,Senthil K,Office Chair,Furniture,North,2,6500,4300,0.15,Cash
+ORD10980,2024-02-05,C007,Vijay K,Running Shoes,Fashion,Central,1,3200,1900,0.0,Debit Card
+ORD10981,2025-05-24,C002,Priya S,Air Fryer,Home Appliances,North,2,8500,6100,0.2,UPI
+ORD10982,2024-06-04,C018,Swathi N,Mixer Grinder,Home Appliances,Central,3,4600,3200,0.1,UPI
+ORD10983,2025-03-22,C031,Dinesh S,Table Fan,Home Appliances,North,4,2900,1850,0.2,Net Banking
+ORD10984,2025-01-28,C001,Arun Kumar,Sofa,Furniture,Central,4,26000,19000,0.0,Net Banking
+ORD10985,2025-11-29,C022,Pooja R,Jacket,Fashion,North,3,2800,1600,0.1,UPI
+ORD10986,2024-12-14,C035,Senthil K,Jacket,Fashion,East,1,2800,1600,0.1,Credit Card
+ORD10987,2024-02-10,C036,Shalini V,Study Table,Furniture,South,4,9500,6800,0.2,Debit Card
+ORD10988,2025-10-07,C007,Vijay K,Mixer Grinder,Home Appliances,North,3,4600,3200,0.1,Cash
+ORD10989,2024-02-06,C009,Suresh B,Bookshelf,Furniture,Central,2,5200,3300,0.0,Credit Card
+ORD10990,2024-03-05,C025,Gokul S,Table Fan,Home Appliances,East,5,2900,1850,0.2,Cash
+ORD10991,2024-02-07,C002,Priya S,Air Fryer,Home Appliances,East,3,8500,6100,0.0,UPI
+ORD10992,2024-08-04,C008,Sneha R,Mixer Grinder,Home Appliances,Central,5,4600,3200,0.1,Credit Card
+ORD10993,2024-02-07,C005,Rahul N,Sofa,Furniture,North,2,26000,19000,0.1,Cash
+ORD10994,2025-12-19,C016,Deepa S,Smartphone,Electronics,South,2,24000,18500,0.0,UPI
+ORD10995,2025-04-12,C007,Vijay K,T-Shirt,Fashion,Central,5,900,420,0.0,UPI
+ORD10996,2025-05-24,C008,Sneha R,Smartwatch,Electronics,South,5,4800,3100,0.15,UPI
+ORD10997,2024-12-11,C028,Kavya N,Bookshelf,Furniture,North,4,5200,3300,0.05,Net Banking
+ORD10998,2024-08-06,C021,Prakash V,Office Chair,Furniture,South,1,6500,4300,0.15,Debit Card
+ORD10999,2024-10-07,C008,Sneha R,Headphones,Electronics,South,2,2200,1200,0.1,Debit Card
+ORD11000,2024-09-06,C029,Mohan V,Study Table,Furniture,South,5,9500,6800,0.0,UPI
